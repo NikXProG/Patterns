@@ -1,0 +1,827 @@
+{"@t":"2025-02-22T00:14:29.8521518+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T00:14:30.3387322+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"DryIoc.ContainerException: code: Error.UnableToResolveUnknownService;\r\nmessage: Unable to resolve Microsoft.Extensions.Configuration.IConfiguration as parameter \"configuration\"\r\n  in resolution root Patterns.Core.Interfaces.ServiceRegistratorsCompositionRoot FactoryID=39\r\n  from container without scope\r\nWhere no service registrations found\r\n  and no dynamic registrations found in 0 of Rules.DynamicServiceProviders\r\n  and nothing found in 0 of Rules.UnknownServiceResolvers\r\n   at DryIoc.Throw.It(Int32 error, Object arg0, Object arg1, Object arg2, Object arg3) in /_/src/DryIoc/Container.cs:line 15958\r\n   at DryIoc.Container.ThrowUnableToResolveOrGetDefault[T](Request request, T defaultResult) in /_/src/DryIoc/Container.cs:line 1017\r\n   at DryIoc.Container.ResolveFactory(Request request) in /_/src/DryIoc/Container.cs:line 987\r\n   at DryIoc.ReflectionFactory.CreateExpressionOrDefault(Request request) in /_/src/DryIoc/Container.cs:line 13093\r\n   at DryIoc.Factory.GetExpressionOrDefault(Request request) in /_/src/DryIoc/Container.cs:line 11952\r\n   at DryIoc.Container.ResolveAndCache(Int32 serviceTypeHash, Type serviceType, IfUnresolved ifUnresolved) in /_/src/DryIoc/Container.cs:line 401\r\n   at DryIoc.Container.Resolve(Type serviceType, IfUnresolved ifUnresolved) in /_/src/DryIoc/Container.cs:line 369\r\n   at DryIoc.Microsoft.DependencyInjection.DryIocAdapter.WithCompositionRoot(IContainer container, Type compositionRootType) in /_/src/DryIoc.Microsoft.DependencyInjection/DryIocAdapter.cs:line 274\r\n   at DryIoc.Microsoft.DependencyInjection.DryIocAdapter.WithCompositionRoot[TCompositionRoot](IContainer container) in /_/src/DryIoc.Microsoft.DependencyInjection/DryIocAdapter.cs:line 280\r\n   at Client.Deploy.Startup.ConfigureApplication() in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Deploy\\Startup.cs:line 64\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 27"}
+{"@t":"2025-02-22T00:14:30.3632521+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-22T00:15:31.8233668+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T00:15:31.9449318+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-22T00:15:32.2624745+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"DryIoc.ContainerException: code: Error.UnableToResolveUnknownService;\r\nmessage: Unable to resolve Microsoft.Extensions.Configuration.IConfiguration as parameter \"configuration\"\r\n  in resolution root Patterns.Core.Interfaces.ServiceRegistratorsCompositionRoot FactoryID=39\r\n  from container without scope\r\nWhere no service registrations found\r\n  and no dynamic registrations found in 0 of Rules.DynamicServiceProviders\r\n  and nothing found in 0 of Rules.UnknownServiceResolvers\r\n   at DryIoc.Throw.It(Int32 error, Object arg0, Object arg1, Object arg2, Object arg3) in /_/src/DryIoc/Container.cs:line 15958\r\n   at DryIoc.Container.ThrowUnableToResolveOrGetDefault[T](Request request, T defaultResult) in /_/src/DryIoc/Container.cs:line 1017\r\n   at DryIoc.Container.ResolveFactory(Request request) in /_/src/DryIoc/Container.cs:line 987\r\n   at DryIoc.ReflectionFactory.CreateExpressionOrDefault(Request request) in /_/src/DryIoc/Container.cs:line 13093\r\n   at DryIoc.Factory.GetExpressionOrDefault(Request request) in /_/src/DryIoc/Container.cs:line 11952\r\n   at DryIoc.Container.ResolveAndCache(Int32 serviceTypeHash, Type serviceType, IfUnresolved ifUnresolved) in /_/src/DryIoc/Container.cs:line 401\r\n   at DryIoc.Container.Resolve(Type serviceType, IfUnresolved ifUnresolved) in /_/src/DryIoc/Container.cs:line 369\r\n   at DryIoc.Microsoft.DependencyInjection.DryIocAdapter.WithCompositionRoot(IContainer container, Type compositionRootType) in /_/src/DryIoc.Microsoft.DependencyInjection/DryIocAdapter.cs:line 274\r\n   at DryIoc.Microsoft.DependencyInjection.DryIocAdapter.WithCompositionRoot[TCompositionRoot](IContainer container) in /_/src/DryIoc.Microsoft.DependencyInjection/DryIocAdapter.cs:line 280\r\n   at Client.Deploy.Startup.ConfigureApplication() in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Deploy\\Startup.cs:line 65\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 27"}
+{"@t":"2025-02-22T00:15:32.2796566+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-22T00:25:07.8896831+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T00:25:08.0032460+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-22T00:25:08.3185767+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"DryIoc.ContainerException: code: Error.UnableToResolveUnknownService;\r\nmessage: Unable to resolve Microsoft.Extensions.Configuration.IConfiguration as parameter \"configuration\"\r\n  in resolution root Patterns.Core.Interfaces.ServiceRegistratorsCompositionRoot FactoryID=39\r\n  from container without scope\r\nWhere no service registrations found\r\n  and no dynamic registrations found in 0 of Rules.DynamicServiceProviders\r\n  and nothing found in 0 of Rules.UnknownServiceResolvers\r\n   at DryIoc.Throw.It(Int32 error, Object arg0, Object arg1, Object arg2, Object arg3) in /_/src/DryIoc/Container.cs:line 15958\r\n   at DryIoc.Container.ThrowUnableToResolveOrGetDefault[T](Request request, T defaultResult) in /_/src/DryIoc/Container.cs:line 1017\r\n   at DryIoc.Container.ResolveFactory(Request request) in /_/src/DryIoc/Container.cs:line 987\r\n   at DryIoc.ReflectionFactory.CreateExpressionOrDefault(Request request) in /_/src/DryIoc/Container.cs:line 13093\r\n   at DryIoc.Factory.GetExpressionOrDefault(Request request) in /_/src/DryIoc/Container.cs:line 11952\r\n   at DryIoc.Container.ResolveAndCache(Int32 serviceTypeHash, Type serviceType, IfUnresolved ifUnresolved) in /_/src/DryIoc/Container.cs:line 401\r\n   at DryIoc.Container.Resolve(Type serviceType, IfUnresolved ifUnresolved) in /_/src/DryIoc/Container.cs:line 369\r\n   at DryIoc.Microsoft.DependencyInjection.DryIocAdapter.WithCompositionRoot(IContainer container, Type compositionRootType) in /_/src/DryIoc.Microsoft.DependencyInjection/DryIocAdapter.cs:line 274\r\n   at DryIoc.Microsoft.DependencyInjection.DryIocAdapter.WithCompositionRoot[TCompositionRoot](IContainer container) in /_/src/DryIoc.Microsoft.DependencyInjection/DryIocAdapter.cs:line 280\r\n   at Client.Deploy.Startup.ConfigureApplication() in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Deploy\\Startup.cs:line 65\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 27"}
+{"@t":"2025-02-22T00:25:08.3417175+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-22T00:58:22.4658380+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T00:58:22.5973711+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-22T00:58:22.9588741+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-22T00:58:22.9597512+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-22T00:58:23.0774909+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T00:58:23.0818131+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T00:58:23.0831327+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T00:58:23.0845454+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T00:58:23.0861418+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T00:58:23.0874444+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T00:58:23.0920466+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T00:58:23.0932789+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T00:58:23.0943260+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T00:58:23.0952729+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-22T00:58:23.0961695+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-22T00:58:23.1034502+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T00:58:23.1059872+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T00:58:23.1128313+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-22T00:58:23.1139102+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-22T00:58:23.1149027+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-22T00:58:23.1443245+03:00","@mt":"\u001B[33mFinished Builder Example..."}
+{"@t":"2025-02-22T00:58:23.1454541+03:00","@mt":"\u001B[32mStarted Adapter Example..."}
+{"@t":"2025-02-22T00:58:23.1738889+03:00","@mt":"ПУК ПУК СРЕНЬК СТАРЫЙ СЕРВИС method {method:G}","@r":["\"MakePayment\""],"method":"MakePayment","SourceContext":"Patterns.Adapter.Services.LegacyPaymentService"}
+{"@t":"2025-02-22T00:58:23.1814750+03:00","@mt":"Processing payment for 2131,123 for USD","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T00:58:23.1831448+03:00","@mt":"Payment succeeded!","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T00:58:23.1841109+03:00","@mt":"\u001B[33mFinished Adapter Example..."}
+{"@t":"2025-02-22T00:58:23.1851164+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-22T01:03:43.1819968+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T01:03:43.2779365+03:00","@mt":"Assemblies loaded before module loading:"}
+{"@t":"2025-02-22T01:03:43.2792876+03:00","@mt":"- System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"}
+{"@t":"2025-02-22T01:03:43.2804364+03:00","@mt":"- Client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.2814523+03:00","@mt":"- System.Runtime, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.2825168+03:00","@mt":"- JetBrains.Microsoft.Extensions.DotNetDeltaApplier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.2835869+03:00","@mt":"- System.Linq, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.2847639+03:00","@mt":"- System.Collections, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.2866433+03:00","@mt":"- System.ComponentModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.2877233+03:00","@mt":"- Patterns.Facade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.2888929+03:00","@mt":"- Patterns.FactoryMethod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.2902353+03:00","@mt":"- Patterns.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.2914929+03:00","@mt":"- Patterns.Domain.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.2927188+03:00","@mt":"- Patterns.Builder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.2943838+03:00","@mt":"- System.Collections.Concurrent, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.2954991+03:00","@mt":"- Patterns.Adapter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.2968692+03:00","@mt":"- Serilog, Version=4.2.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:03:43.2983547+03:00","@mt":"- Microsoft.Extensions.DependencyInjection.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.3001753+03:00","@mt":"- Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.3016429+03:00","@mt":"- DryIoc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:03:43.3028668+03:00","@mt":"- System.IO.Pipes, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3042528+03:00","@mt":"- Microsoft.Extensions.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.3052834+03:00","@mt":"- Microsoft.Extensions.Configuration.FileExtensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.3066945+03:00","@mt":"- System.Console, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3080240+03:00","@mt":"- Microsoft.Extensions.Configuration.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.3092525+03:00","@mt":"- Microsoft.Extensions.Configuration.EnvironmentVariables, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.3108822+03:00","@mt":"- Serilog.Settings.Configuration, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:03:43.3124861+03:00","@mt":"- System.Threading, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3135842+03:00","@mt":"- DryIoc.Microsoft.DependencyInjection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:03:43.3155897+03:00","@mt":"- System.Runtime.InteropServices, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3177114+03:00","@mt":"- Microsoft.Extensions.FileProviders.Physical, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.3192166+03:00","@mt":"- Microsoft.Extensions.FileProviders.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.3206404+03:00","@mt":"- Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.3219577+03:00","@mt":"- System.Memory, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:03:43.3232556+03:00","@mt":"- System.IO.FileSystem.Watcher, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3242966+03:00","@mt":"- System.ComponentModel.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3257066+03:00","@mt":"- Microsoft.Extensions.FileSystemGlobbing, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.3268362+03:00","@mt":"- System.Threading.Overlapped, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3283138+03:00","@mt":"- Microsoft.Win32.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3295485+03:00","@mt":"- System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:03:43.3307036+03:00","@mt":"- System.Text.Encoding.Extensions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3332514+03:00","@mt":"- System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:03:43.3348773+03:00","@mt":"- Microsoft.Extensions.DependencyModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.3360807+03:00","@mt":"- Serilog.Sinks.File, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:03:43.3374406+03:00","@mt":"- Serilog.Sinks.Console, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:03:43.3389307+03:00","@mt":"- System.Reflection.Metadata, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3401209+03:00","@mt":"- System.IO.MemoryMappedFiles, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3413511+03:00","@mt":"- System.Collections.Immutable, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3425447+03:00","@mt":"- Serilog.Extensions.Logging, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:03:43.3440257+03:00","@mt":"- System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:03:43.3456157+03:00","@mt":"- Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.3479551+03:00","@mt":"- System.Text.RegularExpressions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3494871+03:00","@mt":"- System.Private.Uri, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3511119+03:00","@mt":"- System.Reflection.Emit.Lightweight, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3528942+03:00","@mt":"- System.Reflection.Emit.ILGeneration, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3541226+03:00","@mt":"- System.Reflection.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3554846+03:00","@mt":"- System.Diagnostics.Tracing, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.3568978+03:00","@mt":"- Microsoft.Extensions.Configuration.Binder, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4021219+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-22T01:03:43.4131507+03:00","@mt":"Assemblies loaded after module loading:"}
+{"@t":"2025-02-22T01:03:43.4140275+03:00","@mt":"- System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"}
+{"@t":"2025-02-22T01:03:43.4155926+03:00","@mt":"- Client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.4166713+03:00","@mt":"- System.Runtime, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4178093+03:00","@mt":"- JetBrains.Microsoft.Extensions.DotNetDeltaApplier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.4187972+03:00","@mt":"- System.Linq, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4199278+03:00","@mt":"- System.Collections, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4210759+03:00","@mt":"- System.ComponentModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4221811+03:00","@mt":"- Patterns.Facade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.4229973+03:00","@mt":"- Patterns.FactoryMethod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.4239448+03:00","@mt":"- Patterns.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.4249363+03:00","@mt":"- Patterns.Domain.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.4261254+03:00","@mt":"- Patterns.Builder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.4274834+03:00","@mt":"- System.Collections.Concurrent, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4289584+03:00","@mt":"- Patterns.Adapter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:03:43.4305011+03:00","@mt":"- Serilog, Version=4.2.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:03:43.4318844+03:00","@mt":"- Microsoft.Extensions.DependencyInjection.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4334124+03:00","@mt":"- Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4345335+03:00","@mt":"- DryIoc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:03:43.4357212+03:00","@mt":"- System.IO.Pipes, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4368514+03:00","@mt":"- Microsoft.Extensions.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4380103+03:00","@mt":"- Microsoft.Extensions.Configuration.FileExtensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4391834+03:00","@mt":"- System.Console, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4407654+03:00","@mt":"- Microsoft.Extensions.Configuration.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4429030+03:00","@mt":"- Microsoft.Extensions.Configuration.EnvironmentVariables, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4440111+03:00","@mt":"- Serilog.Settings.Configuration, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:03:43.4452245+03:00","@mt":"- System.Threading, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4464399+03:00","@mt":"- DryIoc.Microsoft.DependencyInjection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:03:43.4477841+03:00","@mt":"- System.Runtime.InteropServices, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4489722+03:00","@mt":"- Microsoft.Extensions.FileProviders.Physical, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4507731+03:00","@mt":"- Microsoft.Extensions.FileProviders.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4519459+03:00","@mt":"- Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4531558+03:00","@mt":"- System.Memory, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:03:43.4542526+03:00","@mt":"- System.IO.FileSystem.Watcher, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4555605+03:00","@mt":"- System.ComponentModel.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4565573+03:00","@mt":"- Microsoft.Extensions.FileSystemGlobbing, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4582122+03:00","@mt":"- System.Threading.Overlapped, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4594086+03:00","@mt":"- Microsoft.Win32.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4607138+03:00","@mt":"- System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:03:43.4620404+03:00","@mt":"- System.Text.Encoding.Extensions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4639968+03:00","@mt":"- System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:03:43.4674390+03:00","@mt":"- Microsoft.Extensions.DependencyModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4685834+03:00","@mt":"- Serilog.Sinks.File, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:03:43.4696735+03:00","@mt":"- Serilog.Sinks.Console, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:03:43.4705899+03:00","@mt":"- System.Reflection.Metadata, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4716477+03:00","@mt":"- System.IO.MemoryMappedFiles, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4741995+03:00","@mt":"- System.Collections.Immutable, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4769619+03:00","@mt":"- Serilog.Extensions.Logging, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:03:43.4791666+03:00","@mt":"- System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:03:43.4804476+03:00","@mt":"- Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4815872+03:00","@mt":"- System.Text.RegularExpressions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4828387+03:00","@mt":"- System.Private.Uri, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4837695+03:00","@mt":"- System.Reflection.Emit.Lightweight, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4850710+03:00","@mt":"- System.Reflection.Emit.ILGeneration, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4860120+03:00","@mt":"- System.Reflection.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4868462+03:00","@mt":"- System.Diagnostics.Tracing, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4877716+03:00","@mt":"- Microsoft.Extensions.Configuration.Binder, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:03:43.4889060+03:00","@mt":"- System.ComponentModel.TypeConverter, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4897465+03:00","@mt":"- System.ObjectModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4910410+03:00","@mt":"Newly loaded assembly: System.ComponentModel.TypeConverter, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.4923067+03:00","@mt":"Newly loaded assembly: System.ObjectModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:03:43.8035691+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-22T01:03:43.8045609+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-22T01:03:43.9173127+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:03:43.9207518+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:03:43.9221188+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:03:43.9235112+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:03:43.9247939+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:03:43.9258588+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:03:43.9282152+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:03:43.9291709+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:03:43.9299654+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:03:43.9306942+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-22T01:03:43.9314580+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-22T01:03:43.9349203+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:03:43.9357836+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:03:43.9400539+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-22T01:03:43.9410304+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-22T01:03:43.9420373+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-22T01:03:43.9587715+03:00","@mt":"\u001B[33mFinished Builder Example..."}
+{"@t":"2025-02-22T01:03:43.9599335+03:00","@mt":"\u001B[32mStarted Adapter Example..."}
+{"@t":"2025-02-22T01:03:43.9846857+03:00","@mt":"ПУК ПУК СРЕНЬК СТАРЫЙ СЕРВИС method {method:G}","@r":["\"MakePayment\""],"method":"MakePayment","SourceContext":"Patterns.Adapter.Services.LegacyPaymentService"}
+{"@t":"2025-02-22T01:03:43.9913558+03:00","@mt":"Processing payment for 2131,123 for USD","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:03:43.9928223+03:00","@mt":"Payment succeeded!","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:03:43.9936238+03:00","@mt":"\u001B[33mFinished Adapter Example..."}
+{"@t":"2025-02-22T01:03:43.9946493+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-22T01:13:23.1139269+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T01:13:23.2071924+03:00","@mt":"Assemblies loaded before module loading:"}
+{"@t":"2025-02-22T01:13:23.2086675+03:00","@mt":"- System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"}
+{"@t":"2025-02-22T01:13:23.2095406+03:00","@mt":"- Client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.2104197+03:00","@mt":"- System.Runtime, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2113387+03:00","@mt":"- JetBrains.Microsoft.Extensions.DotNetDeltaApplier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.2123575+03:00","@mt":"- System.Linq, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2132567+03:00","@mt":"- System.Collections, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2142874+03:00","@mt":"- System.ComponentModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2155023+03:00","@mt":"- Patterns.Facade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.2167849+03:00","@mt":"- Patterns.FactoryMethod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.2181595+03:00","@mt":"- Patterns.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.2194816+03:00","@mt":"- System.Collections.Concurrent, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2206230+03:00","@mt":"- Patterns.Domain.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.2219186+03:00","@mt":"- Patterns.Builder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.2229253+03:00","@mt":"- Patterns.Adapter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.2245846+03:00","@mt":"- Serilog, Version=4.2.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:13:23.2274965+03:00","@mt":"- Microsoft.Extensions.DependencyInjection.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.2295008+03:00","@mt":"- System.IO.Pipes, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2314120+03:00","@mt":"- Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.2346549+03:00","@mt":"- DryIoc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:13:23.2359976+03:00","@mt":"- System.Console, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2369334+03:00","@mt":"- Microsoft.Extensions.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.2394660+03:00","@mt":"- Microsoft.Extensions.Configuration.FileExtensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.2411393+03:00","@mt":"- Microsoft.Extensions.Configuration.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.2426106+03:00","@mt":"- Microsoft.Extensions.Configuration.EnvironmentVariables, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.2441336+03:00","@mt":"- Serilog.Settings.Configuration, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:13:23.2461441+03:00","@mt":"- System.Threading, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2517784+03:00","@mt":"- System.Runtime.InteropServices, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2535707+03:00","@mt":"- DryIoc.Microsoft.DependencyInjection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:13:23.2553720+03:00","@mt":"- Microsoft.Extensions.FileProviders.Physical, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.2566594+03:00","@mt":"- Microsoft.Extensions.FileProviders.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.2583617+03:00","@mt":"- Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.2597343+03:00","@mt":"- System.Memory, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:13:23.2611503+03:00","@mt":"- System.IO.FileSystem.Watcher, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2626714+03:00","@mt":"- System.ComponentModel.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2643700+03:00","@mt":"- Microsoft.Extensions.FileSystemGlobbing, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.2655702+03:00","@mt":"- System.Threading.Overlapped, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2676760+03:00","@mt":"- Microsoft.Win32.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2700892+03:00","@mt":"- System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:13:23.2718564+03:00","@mt":"- System.Text.Encoding.Extensions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2733589+03:00","@mt":"- System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:13:23.2748812+03:00","@mt":"- Microsoft.Extensions.DependencyModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.2768040+03:00","@mt":"- Serilog.Sinks.File, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:13:23.2782927+03:00","@mt":"- Serilog.Sinks.Console, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:13:23.2810336+03:00","@mt":"- System.Reflection.Metadata, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2822931+03:00","@mt":"- System.IO.MemoryMappedFiles, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2833533+03:00","@mt":"- System.Collections.Immutable, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2846750+03:00","@mt":"- Serilog.Extensions.Logging, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:13:23.2856673+03:00","@mt":"- System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:13:23.2866559+03:00","@mt":"- Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.2876435+03:00","@mt":"- System.Text.RegularExpressions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2886626+03:00","@mt":"- System.Private.Uri, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2897061+03:00","@mt":"- System.Reflection.Emit.Lightweight, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2909150+03:00","@mt":"- System.Reflection.Emit.ILGeneration, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2924411+03:00","@mt":"- System.Reflection.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2942893+03:00","@mt":"- System.Diagnostics.Tracing, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.2955588+03:00","@mt":"- Microsoft.Extensions.Configuration.Binder, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.3330024+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-22T01:13:23.3422838+03:00","@mt":"Assemblies loaded after module loading:"}
+{"@t":"2025-02-22T01:13:23.3434597+03:00","@mt":"- System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"}
+{"@t":"2025-02-22T01:13:23.3448759+03:00","@mt":"- Client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.3459593+03:00","@mt":"- System.Runtime, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.3471091+03:00","@mt":"- JetBrains.Microsoft.Extensions.DotNetDeltaApplier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.3482661+03:00","@mt":"- System.Linq, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.3496149+03:00","@mt":"- System.Collections, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.3509154+03:00","@mt":"- System.ComponentModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.3529954+03:00","@mt":"- Patterns.Facade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.3547294+03:00","@mt":"- Patterns.FactoryMethod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.3556270+03:00","@mt":"- Patterns.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.3566126+03:00","@mt":"- System.Collections.Concurrent, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.3575935+03:00","@mt":"- Patterns.Domain.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.3588659+03:00","@mt":"- Patterns.Builder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.3603146+03:00","@mt":"- Patterns.Adapter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:13:23.3613444+03:00","@mt":"- Serilog, Version=4.2.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:13:23.3622612+03:00","@mt":"- Microsoft.Extensions.DependencyInjection.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.3636317+03:00","@mt":"- System.IO.Pipes, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.3646504+03:00","@mt":"- Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.3655917+03:00","@mt":"- DryIoc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:13:23.3664795+03:00","@mt":"- System.Console, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.3672959+03:00","@mt":"- Microsoft.Extensions.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.3682349+03:00","@mt":"- Microsoft.Extensions.Configuration.FileExtensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.3694387+03:00","@mt":"- Microsoft.Extensions.Configuration.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.3705743+03:00","@mt":"- Microsoft.Extensions.Configuration.EnvironmentVariables, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.3715570+03:00","@mt":"- Serilog.Settings.Configuration, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:13:23.3726928+03:00","@mt":"- System.Threading, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.3754611+03:00","@mt":"- System.Runtime.InteropServices, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.3780766+03:00","@mt":"- DryIoc.Microsoft.DependencyInjection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:13:23.3810445+03:00","@mt":"- Microsoft.Extensions.FileProviders.Physical, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.3866273+03:00","@mt":"- Microsoft.Extensions.FileProviders.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.3955650+03:00","@mt":"- Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.4026227+03:00","@mt":"- System.Memory, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:13:23.4067080+03:00","@mt":"- System.IO.FileSystem.Watcher, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4091703+03:00","@mt":"- System.ComponentModel.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4111591+03:00","@mt":"- Microsoft.Extensions.FileSystemGlobbing, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.4130139+03:00","@mt":"- System.Threading.Overlapped, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4146701+03:00","@mt":"- Microsoft.Win32.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4167378+03:00","@mt":"- System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:13:23.4189575+03:00","@mt":"- System.Text.Encoding.Extensions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4215808+03:00","@mt":"- System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:13:23.4230940+03:00","@mt":"- Microsoft.Extensions.DependencyModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.4251712+03:00","@mt":"- Serilog.Sinks.File, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:13:23.4265060+03:00","@mt":"- Serilog.Sinks.Console, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:13:23.4311718+03:00","@mt":"- System.Reflection.Metadata, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4335890+03:00","@mt":"- System.IO.MemoryMappedFiles, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4375295+03:00","@mt":"- System.Collections.Immutable, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4394481+03:00","@mt":"- Serilog.Extensions.Logging, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:13:23.4425637+03:00","@mt":"- System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:13:23.4448370+03:00","@mt":"- Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.4464857+03:00","@mt":"- System.Text.RegularExpressions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4489442+03:00","@mt":"- System.Private.Uri, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4520299+03:00","@mt":"- System.Reflection.Emit.Lightweight, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4540185+03:00","@mt":"- System.Reflection.Emit.ILGeneration, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4579073+03:00","@mt":"- System.Reflection.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4623198+03:00","@mt":"- System.Diagnostics.Tracing, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4657352+03:00","@mt":"- Microsoft.Extensions.Configuration.Binder, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:13:23.4699442+03:00","@mt":"- System.ComponentModel.TypeConverter, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4763171+03:00","@mt":"- System.ObjectModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4886303+03:00","@mt":"Newly loaded assembly: System.ComponentModel.TypeConverter, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.4899790+03:00","@mt":"Newly loaded assembly: System.ObjectModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:13:23.9860487+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-22T01:13:23.9870923+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-22T01:13:24.1147327+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:13:24.1185372+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:13:24.1199739+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:13:24.1213220+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:13:24.1226727+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:13:24.1236614+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:13:24.1263654+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:13:24.1273941+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:13:24.1286573+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:13:24.1299429+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-22T01:13:24.1309019+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-22T01:13:24.1362367+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:13:24.1374100+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:13:24.1421519+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-22T01:13:24.1432888+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-22T01:13:24.1444111+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-22T01:13:24.1674797+03:00","@mt":"\u001B[33mFinished Builder Example..."}
+{"@t":"2025-02-22T01:13:24.1693101+03:00","@mt":"\u001B[32mStarted Adapter Example..."}
+{"@t":"2025-02-22T01:13:24.1966150+03:00","@mt":"ПУК ПУК СРЕНЬК СТАРЫЙ СЕРВИС method {method:G}","@r":["\"MakePayment\""],"method":"MakePayment","SourceContext":"Patterns.Adapter.Services.LegacyPaymentService"}
+{"@t":"2025-02-22T01:13:24.2063387+03:00","@mt":"Processing payment for 2131,123 for USD","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:13:24.2078847+03:00","@mt":"Payment succeeded!","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:13:24.2089800+03:00","@mt":"\u001B[33mFinished Adapter Example..."}
+{"@t":"2025-02-22T01:13:24.2097323+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-22T01:16:44.6199975+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T01:16:44.7171129+03:00","@mt":"Assemblies loaded before module loading:"}
+{"@t":"2025-02-22T01:16:44.7181947+03:00","@mt":"- System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"}
+{"@t":"2025-02-22T01:16:44.7194419+03:00","@mt":"- Client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.7203462+03:00","@mt":"- System.Runtime, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7211019+03:00","@mt":"- JetBrains.Microsoft.Extensions.DotNetDeltaApplier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.7218174+03:00","@mt":"- System.Linq, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7225050+03:00","@mt":"- System.Collections, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7235424+03:00","@mt":"- System.ComponentModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7245524+03:00","@mt":"- Patterns.Facade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.7258629+03:00","@mt":"- Patterns.FactoryMethod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.7269676+03:00","@mt":"- Patterns.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.7280123+03:00","@mt":"- Patterns.Domain.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.7290873+03:00","@mt":"- System.Collections.Concurrent, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7313312+03:00","@mt":"- Patterns.Builder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.7341210+03:00","@mt":"- Patterns.Adapter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.7351962+03:00","@mt":"- Serilog, Version=4.2.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:16:44.7377575+03:00","@mt":"- Microsoft.Extensions.DependencyInjection.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.7390151+03:00","@mt":"- Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.7402620+03:00","@mt":"- System.IO.Pipes, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7415816+03:00","@mt":"- DryIoc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:16:44.7427573+03:00","@mt":"- System.Console, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7445054+03:00","@mt":"- Microsoft.Extensions.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.7476808+03:00","@mt":"- Microsoft.Extensions.Configuration.FileExtensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.7509920+03:00","@mt":"- Microsoft.Extensions.Configuration.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.7524298+03:00","@mt":"- Microsoft.Extensions.Configuration.EnvironmentVariables, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.7538533+03:00","@mt":"- System.Threading, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7556725+03:00","@mt":"- Serilog.Settings.Configuration, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:16:44.7568390+03:00","@mt":"- System.Runtime.InteropServices, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7582354+03:00","@mt":"- DryIoc.Microsoft.DependencyInjection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:16:44.7603163+03:00","@mt":"- Microsoft.Extensions.FileProviders.Physical, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.7629346+03:00","@mt":"- Microsoft.Extensions.FileProviders.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.7706087+03:00","@mt":"- Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.7735852+03:00","@mt":"- System.Memory, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:16:44.7763764+03:00","@mt":"- System.IO.FileSystem.Watcher, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7787441+03:00","@mt":"- System.ComponentModel.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7806819+03:00","@mt":"- Microsoft.Extensions.FileSystemGlobbing, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.7870496+03:00","@mt":"- System.Threading.Overlapped, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7892147+03:00","@mt":"- Microsoft.Win32.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7904908+03:00","@mt":"- System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:16:44.7921291+03:00","@mt":"- System.Text.Encoding.Extensions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.7939569+03:00","@mt":"- System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:16:44.7955390+03:00","@mt":"- Microsoft.Extensions.DependencyModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.7970780+03:00","@mt":"- Serilog.Sinks.File, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:16:44.7997823+03:00","@mt":"- Serilog.Sinks.Console, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:16:44.8014642+03:00","@mt":"- System.Reflection.Metadata, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8036102+03:00","@mt":"- System.IO.MemoryMappedFiles, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8049628+03:00","@mt":"- System.Collections.Immutable, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8061456+03:00","@mt":"- Serilog.Extensions.Logging, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:16:44.8071638+03:00","@mt":"- System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:16:44.8081799+03:00","@mt":"- Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.8093609+03:00","@mt":"- System.Text.RegularExpressions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8101765+03:00","@mt":"- System.Private.Uri, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8109992+03:00","@mt":"- System.Reflection.Emit.Lightweight, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8117943+03:00","@mt":"- System.Reflection.Emit.ILGeneration, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8126507+03:00","@mt":"- System.Reflection.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8136948+03:00","@mt":"- System.Diagnostics.Tracing, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8147285+03:00","@mt":"- Microsoft.Extensions.Configuration.Binder, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.8436746+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-22T01:16:44.8530141+03:00","@mt":"Assemblies loaded after module loading:"}
+{"@t":"2025-02-22T01:16:44.8540766+03:00","@mt":"- System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"}
+{"@t":"2025-02-22T01:16:44.8549633+03:00","@mt":"- Client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.8563529+03:00","@mt":"- System.Runtime, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8575713+03:00","@mt":"- JetBrains.Microsoft.Extensions.DotNetDeltaApplier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.8587063+03:00","@mt":"- System.Linq, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8597223+03:00","@mt":"- System.Collections, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8606576+03:00","@mt":"- System.ComponentModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8615910+03:00","@mt":"- Patterns.Facade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.8625290+03:00","@mt":"- Patterns.FactoryMethod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.8635243+03:00","@mt":"- Patterns.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.8646056+03:00","@mt":"- Patterns.Domain.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.8655009+03:00","@mt":"- System.Collections.Concurrent, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8663381+03:00","@mt":"- Patterns.Builder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.8670999+03:00","@mt":"- Patterns.Adapter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:16:44.8679382+03:00","@mt":"- Serilog, Version=4.2.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:16:44.8688273+03:00","@mt":"- Microsoft.Extensions.DependencyInjection.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.8697309+03:00","@mt":"- Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.8705711+03:00","@mt":"- System.IO.Pipes, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8716562+03:00","@mt":"- DryIoc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:16:44.8726635+03:00","@mt":"- System.Console, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8741250+03:00","@mt":"- Microsoft.Extensions.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.8750383+03:00","@mt":"- Microsoft.Extensions.Configuration.FileExtensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.8758322+03:00","@mt":"- Microsoft.Extensions.Configuration.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.8766323+03:00","@mt":"- Microsoft.Extensions.Configuration.EnvironmentVariables, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.8774565+03:00","@mt":"- System.Threading, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8783603+03:00","@mt":"- Serilog.Settings.Configuration, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:16:44.8792415+03:00","@mt":"- System.Runtime.InteropServices, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8803862+03:00","@mt":"- DryIoc.Microsoft.DependencyInjection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:16:44.8814145+03:00","@mt":"- Microsoft.Extensions.FileProviders.Physical, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.8824052+03:00","@mt":"- Microsoft.Extensions.FileProviders.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.8834417+03:00","@mt":"- Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.8848179+03:00","@mt":"- System.Memory, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:16:44.8858632+03:00","@mt":"- System.IO.FileSystem.Watcher, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8871535+03:00","@mt":"- System.ComponentModel.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8880056+03:00","@mt":"- Microsoft.Extensions.FileSystemGlobbing, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.8888649+03:00","@mt":"- System.Threading.Overlapped, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8896429+03:00","@mt":"- Microsoft.Win32.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8906026+03:00","@mt":"- System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:16:44.8918465+03:00","@mt":"- System.Text.Encoding.Extensions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.8934333+03:00","@mt":"- System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:16:44.9054931+03:00","@mt":"- Microsoft.Extensions.DependencyModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.9068925+03:00","@mt":"- Serilog.Sinks.File, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:16:44.9091882+03:00","@mt":"- Serilog.Sinks.Console, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:16:44.9107644+03:00","@mt":"- System.Reflection.Metadata, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.9123691+03:00","@mt":"- System.IO.MemoryMappedFiles, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.9163706+03:00","@mt":"- System.Collections.Immutable, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.9197953+03:00","@mt":"- Serilog.Extensions.Logging, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:16:44.9216757+03:00","@mt":"- System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:16:44.9232228+03:00","@mt":"- Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.9245714+03:00","@mt":"- System.Text.RegularExpressions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.9256793+03:00","@mt":"- System.Private.Uri, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.9268708+03:00","@mt":"- System.Reflection.Emit.Lightweight, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.9279656+03:00","@mt":"- System.Reflection.Emit.ILGeneration, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.9290198+03:00","@mt":"- System.Reflection.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.9299596+03:00","@mt":"- System.Diagnostics.Tracing, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.9309828+03:00","@mt":"- Microsoft.Extensions.Configuration.Binder, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:16:44.9326998+03:00","@mt":"- System.ComponentModel.TypeConverter, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.9349008+03:00","@mt":"- System.ObjectModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.9365432+03:00","@mt":"Newly loaded assembly: System.ComponentModel.TypeConverter, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:44.9376276+03:00","@mt":"Newly loaded assembly: System.ObjectModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:16:45.2684855+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-22T01:16:45.2696858+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-22T01:16:45.4020191+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:16:45.4073055+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:16:45.4087968+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:16:45.4105001+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:16:45.4117839+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:16:45.4130055+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:16:45.4178908+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:16:45.4189068+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:16:45.4198627+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:16:45.4209565+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-22T01:16:45.4219491+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-22T01:16:45.4265851+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:16:45.4276624+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:16:45.4325574+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-22T01:16:45.4335173+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-22T01:16:45.4344961+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-22T01:16:45.4594137+03:00","@mt":"\u001B[33mFinished Builder Example..."}
+{"@t":"2025-02-22T01:16:45.4607395+03:00","@mt":"\u001B[32mStarted Adapter Example..."}
+{"@t":"2025-02-22T01:16:45.4846695+03:00","@mt":"ПУК ПУК СРЕНЬК СТАРЫЙ СЕРВИС method {method:G}","@r":["\"MakePayment\""],"method":"MakePayment","SourceContext":"Patterns.Adapter.Services.LegacyPaymentService"}
+{"@t":"2025-02-22T01:16:45.4911147+03:00","@mt":"Processing payment for 2131,123 for USD","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:16:45.4928497+03:00","@mt":"Payment succeeded!","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:16:45.4937751+03:00","@mt":"\u001B[33mFinished Adapter Example..."}
+{"@t":"2025-02-22T01:16:45.4945499+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-22T01:17:23.1662997+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T01:17:23.2469774+03:00","@mt":"Assemblies loaded before module loading:"}
+{"@t":"2025-02-22T01:17:23.2486569+03:00","@mt":"- System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"}
+{"@t":"2025-02-22T01:17:23.2494566+03:00","@mt":"- Client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:17:23.2501716+03:00","@mt":"- System.Runtime, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2510843+03:00","@mt":"- JetBrains.Microsoft.Extensions.DotNetDeltaApplier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:17:23.2520660+03:00","@mt":"- System.Linq, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2529243+03:00","@mt":"- System.Collections, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2541668+03:00","@mt":"- System.ComponentModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2552719+03:00","@mt":"- Patterns.Facade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:17:23.2563114+03:00","@mt":"- Serilog, Version=4.2.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:17:23.2571533+03:00","@mt":"- Microsoft.Extensions.DependencyInjection.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.2579968+03:00","@mt":"- System.Collections.Concurrent, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2588552+03:00","@mt":"- Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.2597192+03:00","@mt":"- DryIoc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:17:23.2605986+03:00","@mt":"- Microsoft.Extensions.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.2614492+03:00","@mt":"- Microsoft.Extensions.Configuration.FileExtensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.2623013+03:00","@mt":"- System.IO.Pipes, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2632642+03:00","@mt":"- Microsoft.Extensions.Configuration.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.2648558+03:00","@mt":"- Microsoft.Extensions.Configuration.EnvironmentVariables, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.2657367+03:00","@mt":"- System.Console, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2669676+03:00","@mt":"- Serilog.Settings.Configuration, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:17:23.2679557+03:00","@mt":"- DryIoc.Microsoft.DependencyInjection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:17:23.2688448+03:00","@mt":"- System.Threading, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2697251+03:00","@mt":"- System.Runtime.InteropServices, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2706165+03:00","@mt":"- Patterns.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:17:23.2714972+03:00","@mt":"- Microsoft.Extensions.FileProviders.Physical, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.2725073+03:00","@mt":"- Microsoft.Extensions.FileProviders.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.2734006+03:00","@mt":"- Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.2743869+03:00","@mt":"- System.Memory, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:17:23.2753943+03:00","@mt":"- System.IO.FileSystem.Watcher, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2764000+03:00","@mt":"- System.ComponentModel.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2773514+03:00","@mt":"- Microsoft.Extensions.FileSystemGlobbing, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.2781831+03:00","@mt":"- System.Threading.Overlapped, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2795003+03:00","@mt":"- Microsoft.Win32.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2803372+03:00","@mt":"- System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:17:23.2816422+03:00","@mt":"- System.Text.Encoding.Extensions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2830027+03:00","@mt":"- System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:17:23.2838964+03:00","@mt":"- Microsoft.Extensions.DependencyModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.2846614+03:00","@mt":"- Serilog.Sinks.File, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:17:23.2857334+03:00","@mt":"- Serilog.Sinks.Console, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:17:23.2864840+03:00","@mt":"- System.Reflection.Metadata, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2872445+03:00","@mt":"- System.IO.MemoryMappedFiles, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2879971+03:00","@mt":"- System.Collections.Immutable, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2888176+03:00","@mt":"- Serilog.Extensions.Logging, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:17:23.2895823+03:00","@mt":"- System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:17:23.2904232+03:00","@mt":"- Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.2911640+03:00","@mt":"- System.Text.RegularExpressions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2918893+03:00","@mt":"- System.Private.Uri, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2926402+03:00","@mt":"- System.Reflection.Emit.Lightweight, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2933843+03:00","@mt":"- System.Reflection.Emit.ILGeneration, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2945370+03:00","@mt":"- System.Reflection.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2955417+03:00","@mt":"- System.Diagnostics.Tracing, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.2964321+03:00","@mt":"- Microsoft.Extensions.Configuration.Binder, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3211181+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-22T01:17:23.3292836+03:00","@mt":"Assemblies loaded after module loading:"}
+{"@t":"2025-02-22T01:17:23.3302388+03:00","@mt":"- System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"}
+{"@t":"2025-02-22T01:17:23.3312250+03:00","@mt":"- Client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:17:23.3322745+03:00","@mt":"- System.Runtime, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3333092+03:00","@mt":"- JetBrains.Microsoft.Extensions.DotNetDeltaApplier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:17:23.3344830+03:00","@mt":"- System.Linq, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3355744+03:00","@mt":"- System.Collections, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3369429+03:00","@mt":"- System.ComponentModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3380474+03:00","@mt":"- Patterns.Facade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:17:23.3392682+03:00","@mt":"- Serilog, Version=4.2.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:17:23.3412536+03:00","@mt":"- Microsoft.Extensions.DependencyInjection.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3423452+03:00","@mt":"- System.Collections.Concurrent, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3435029+03:00","@mt":"- Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3446138+03:00","@mt":"- DryIoc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:17:23.3456904+03:00","@mt":"- Microsoft.Extensions.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3466111+03:00","@mt":"- Microsoft.Extensions.Configuration.FileExtensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3476303+03:00","@mt":"- System.IO.Pipes, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3488400+03:00","@mt":"- Microsoft.Extensions.Configuration.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3499064+03:00","@mt":"- Microsoft.Extensions.Configuration.EnvironmentVariables, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3510229+03:00","@mt":"- System.Console, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3519755+03:00","@mt":"- Serilog.Settings.Configuration, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:17:23.3530258+03:00","@mt":"- DryIoc.Microsoft.DependencyInjection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:17:23.3540415+03:00","@mt":"- System.Threading, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3549894+03:00","@mt":"- System.Runtime.InteropServices, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3560205+03:00","@mt":"- Patterns.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:17:23.3573524+03:00","@mt":"- Microsoft.Extensions.FileProviders.Physical, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3582791+03:00","@mt":"- Microsoft.Extensions.FileProviders.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3593108+03:00","@mt":"- Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3602922+03:00","@mt":"- System.Memory, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:17:23.3616348+03:00","@mt":"- System.IO.FileSystem.Watcher, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3629202+03:00","@mt":"- System.ComponentModel.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3641377+03:00","@mt":"- Microsoft.Extensions.FileSystemGlobbing, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3652301+03:00","@mt":"- System.Threading.Overlapped, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3663695+03:00","@mt":"- Microsoft.Win32.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3673573+03:00","@mt":"- System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:17:23.3683507+03:00","@mt":"- System.Text.Encoding.Extensions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3694984+03:00","@mt":"- System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:17:23.3706293+03:00","@mt":"- Microsoft.Extensions.DependencyModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3722123+03:00","@mt":"- Serilog.Sinks.File, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:17:23.3732365+03:00","@mt":"- Serilog.Sinks.Console, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:17:23.3743406+03:00","@mt":"- System.Reflection.Metadata, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3755112+03:00","@mt":"- System.IO.MemoryMappedFiles, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3766804+03:00","@mt":"- System.Collections.Immutable, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3777268+03:00","@mt":"- Serilog.Extensions.Logging, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:17:23.3785999+03:00","@mt":"- System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:17:23.3794246+03:00","@mt":"- Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3804938+03:00","@mt":"- System.Text.RegularExpressions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3815872+03:00","@mt":"- System.Private.Uri, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3825510+03:00","@mt":"- System.Reflection.Emit.Lightweight, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3836102+03:00","@mt":"- System.Reflection.Emit.ILGeneration, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3845334+03:00","@mt":"- System.Reflection.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3854811+03:00","@mt":"- System.Diagnostics.Tracing, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3866753+03:00","@mt":"- Microsoft.Extensions.Configuration.Binder, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:17:23.3882889+03:00","@mt":"- System.ComponentModel.TypeConverter, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3894531+03:00","@mt":"- System.ObjectModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3906985+03:00","@mt":"Newly loaded assembly: System.ComponentModel.TypeConverter, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.3916913+03:00","@mt":"Newly loaded assembly: System.ObjectModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:17:23.6557718+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-22T01:17:23.6567642+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-22T01:17:23.7652158+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:17:23.7697887+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:17:23.7711697+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:17:23.7724950+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:17:23.7737561+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:17:23.7748090+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:17:23.7771488+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:17:23.7782004+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:17:23.7789284+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:17:23.7795808+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-22T01:17:23.7802091+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-22T01:38:29.8546048+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T01:38:29.9450172+03:00","@mt":"Assemblies loaded before module loading:"}
+{"@t":"2025-02-22T01:38:29.9464060+03:00","@mt":"- System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"}
+{"@t":"2025-02-22T01:38:29.9472495+03:00","@mt":"- Client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:29.9481082+03:00","@mt":"- System.Runtime, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9489551+03:00","@mt":"- JetBrains.Microsoft.Extensions.DotNetDeltaApplier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:29.9497585+03:00","@mt":"- System.Linq, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9506474+03:00","@mt":"- System.Collections, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9518217+03:00","@mt":"- System.ComponentModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9527381+03:00","@mt":"- Patterns.FactoryMethod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:29.9535530+03:00","@mt":"- Patterns.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:29.9543765+03:00","@mt":"- Patterns.Domain.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:29.9552525+03:00","@mt":"- System.Collections.Concurrent, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9561007+03:00","@mt":"- Patterns.Builder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:29.9569271+03:00","@mt":"- Patterns.Adapter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:29.9579819+03:00","@mt":"- Serilog, Version=4.2.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:38:29.9588228+03:00","@mt":"- Microsoft.Extensions.DependencyInjection.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:29.9601402+03:00","@mt":"- Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:29.9609074+03:00","@mt":"- System.IO.Pipes, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9616916+03:00","@mt":"- DryIoc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:38:29.9628408+03:00","@mt":"- System.Console, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9638666+03:00","@mt":"- Microsoft.Extensions.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:29.9648607+03:00","@mt":"- Microsoft.Extensions.Configuration.FileExtensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:29.9657443+03:00","@mt":"- Microsoft.Extensions.Configuration.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:29.9666285+03:00","@mt":"- Microsoft.Extensions.Configuration.EnvironmentVariables, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:29.9676030+03:00","@mt":"- Serilog.Settings.Configuration, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:38:29.9685019+03:00","@mt":"- DryIoc.Microsoft.DependencyInjection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:38:29.9693475+03:00","@mt":"- Microsoft.Extensions.FileProviders.Physical, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:29.9702795+03:00","@mt":"- System.Threading, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9710392+03:00","@mt":"- Microsoft.Extensions.FileProviders.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:29.9720982+03:00","@mt":"- System.Runtime.InteropServices, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9728608+03:00","@mt":"- Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:29.9737111+03:00","@mt":"- System.Memory, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:38:29.9745578+03:00","@mt":"- System.IO.FileSystem.Watcher, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9754065+03:00","@mt":"- System.ComponentModel.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9771081+03:00","@mt":"- Microsoft.Extensions.FileSystemGlobbing, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:29.9787088+03:00","@mt":"- System.Threading.Overlapped, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9800027+03:00","@mt":"- Microsoft.Win32.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9810861+03:00","@mt":"- System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:38:29.9824252+03:00","@mt":"- System.Text.Encoding.Extensions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9836241+03:00","@mt":"- System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:38:29.9847803+03:00","@mt":"- Microsoft.Extensions.DependencyModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:29.9859053+03:00","@mt":"- Serilog.Sinks.File, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:38:29.9871370+03:00","@mt":"- Serilog.Sinks.Console, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:38:29.9883395+03:00","@mt":"- System.Reflection.Metadata, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9895064+03:00","@mt":"- System.IO.MemoryMappedFiles, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9905860+03:00","@mt":"- System.Collections.Immutable, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9920057+03:00","@mt":"- Serilog.Extensions.Logging, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:38:29.9930641+03:00","@mt":"- System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:38:29.9940289+03:00","@mt":"- Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:29.9953595+03:00","@mt":"- System.Text.RegularExpressions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9964953+03:00","@mt":"- System.Private.Uri, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9976017+03:00","@mt":"- System.Reflection.Emit.Lightweight, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9987535+03:00","@mt":"- System.Reflection.Emit.ILGeneration, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:29.9997725+03:00","@mt":"- System.Reflection.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0008714+03:00","@mt":"- System.Diagnostics.Tracing, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0019970+03:00","@mt":"- Microsoft.Extensions.Configuration.Binder, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.0489998+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-22T01:38:30.0585395+03:00","@mt":"Assemblies loaded after module loading:"}
+{"@t":"2025-02-22T01:38:30.0596394+03:00","@mt":"- System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"}
+{"@t":"2025-02-22T01:38:30.0607311+03:00","@mt":"- Client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:30.0618322+03:00","@mt":"- System.Runtime, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0632241+03:00","@mt":"- JetBrains.Microsoft.Extensions.DotNetDeltaApplier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:30.0641015+03:00","@mt":"- System.Linq, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0649462+03:00","@mt":"- System.Collections, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0660282+03:00","@mt":"- System.ComponentModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0672048+03:00","@mt":"- Patterns.FactoryMethod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:30.0685935+03:00","@mt":"- Patterns.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:30.0697411+03:00","@mt":"- Patterns.Domain.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:30.0711772+03:00","@mt":"- System.Collections.Concurrent, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0718935+03:00","@mt":"- Patterns.Builder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:30.0732367+03:00","@mt":"- Patterns.Adapter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:30.0744554+03:00","@mt":"- Serilog, Version=4.2.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:38:30.0753214+03:00","@mt":"- Microsoft.Extensions.DependencyInjection.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.0766532+03:00","@mt":"- Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.0778924+03:00","@mt":"- System.IO.Pipes, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0797616+03:00","@mt":"- DryIoc, Version=6.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:38:30.0810245+03:00","@mt":"- System.Console, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0820602+03:00","@mt":"- Microsoft.Extensions.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.0832055+03:00","@mt":"- Microsoft.Extensions.Configuration.FileExtensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.0842922+03:00","@mt":"- Microsoft.Extensions.Configuration.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.0856262+03:00","@mt":"- Microsoft.Extensions.Configuration.EnvironmentVariables, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.0863000+03:00","@mt":"- Serilog.Settings.Configuration, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:38:30.0877682+03:00","@mt":"- DryIoc.Microsoft.DependencyInjection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=dfbf2bd50fcf7768"}
+{"@t":"2025-02-22T01:38:30.0889366+03:00","@mt":"- Microsoft.Extensions.FileProviders.Physical, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.0902094+03:00","@mt":"- System.Threading, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0912869+03:00","@mt":"- Microsoft.Extensions.FileProviders.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.0923523+03:00","@mt":"- System.Runtime.InteropServices, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0935269+03:00","@mt":"- Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.0948531+03:00","@mt":"- System.Memory, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:38:30.0960897+03:00","@mt":"- System.IO.FileSystem.Watcher, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0969399+03:00","@mt":"- System.ComponentModel.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0977398+03:00","@mt":"- Microsoft.Extensions.FileSystemGlobbing, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.0984966+03:00","@mt":"- System.Threading.Overlapped, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.0993509+03:00","@mt":"- Microsoft.Win32.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1001889+03:00","@mt":"- System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:38:30.1010478+03:00","@mt":"- System.Text.Encoding.Extensions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1022669+03:00","@mt":"- System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:38:30.1036439+03:00","@mt":"- Microsoft.Extensions.DependencyModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.1046452+03:00","@mt":"- Serilog.Sinks.File, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:38:30.1056730+03:00","@mt":"- Serilog.Sinks.Console, Version=6.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:38:30.1066914+03:00","@mt":"- System.Reflection.Metadata, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1079224+03:00","@mt":"- System.IO.MemoryMappedFiles, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1090289+03:00","@mt":"- System.Collections.Immutable, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1105899+03:00","@mt":"- Serilog.Extensions.Logging, Version=9.0.1.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10"}
+{"@t":"2025-02-22T01:38:30.1117998+03:00","@mt":"- System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+{"@t":"2025-02-22T01:38:30.1131022+03:00","@mt":"- Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.1141867+03:00","@mt":"- System.Text.RegularExpressions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1149786+03:00","@mt":"- System.Private.Uri, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1161777+03:00","@mt":"- System.Reflection.Emit.Lightweight, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1175465+03:00","@mt":"- System.Reflection.Emit.ILGeneration, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1191227+03:00","@mt":"- System.Reflection.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1217178+03:00","@mt":"- System.Diagnostics.Tracing, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1263748+03:00","@mt":"- Microsoft.Extensions.Configuration.Binder, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"}
+{"@t":"2025-02-22T01:38:30.1274119+03:00","@mt":"- System.ComponentModel.TypeConverter, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1285347+03:00","@mt":"- System.ObjectModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1298406+03:00","@mt":"- Patterns.Facade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:30.1311194+03:00","@mt":"Newly loaded assembly: System.ComponentModel.TypeConverter, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1320806+03:00","@mt":"Newly loaded assembly: System.ObjectModel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"}
+{"@t":"2025-02-22T01:38:30.1331661+03:00","@mt":"Newly loaded assembly: Patterns.Facade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+{"@t":"2025-02-22T01:38:30.4532008+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-22T01:38:30.4550752+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-22T01:38:30.4642461+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:38:30.4652924+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:38:30.4710154+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-22T01:38:30.4723207+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-22T01:38:30.4735195+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-22T01:38:30.5031950+03:00","@mt":"\u001B[33mFinished Builder Example..."}
+{"@t":"2025-02-22T01:38:30.5043566+03:00","@mt":"\u001B[32mStarted Adapter Example..."}
+{"@t":"2025-02-22T01:38:30.7232826+03:00","@mt":"ПУК ПУК СРЕНЬК СТАРЫЙ СЕРВИС method {method:G}","@r":["\"MakePayment\""],"method":"MakePayment","SourceContext":"Patterns.Adapter.Services.LegacyPaymentService"}
+{"@t":"2025-02-22T01:38:30.7366319+03:00","@mt":"Processing payment for 2131,123 for USD","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:38:30.7382530+03:00","@mt":"Payment succeeded!","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:38:30.7392879+03:00","@mt":"\u001B[33mFinished Adapter Example..."}
+{"@t":"2025-02-22T01:38:30.7402938+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-22T01:39:10.3253758+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T01:39:10.4197145+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-22T01:39:10.7069299+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-22T01:39:10.7079807+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-22T01:39:10.7123201+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:39:10.7130477+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:39:10.7161580+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-22T01:39:10.7168607+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-22T01:39:10.7175391+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-22T01:39:10.7323935+03:00","@mt":"\u001B[33mFinished Builder Example..."}
+{"@t":"2025-02-22T01:39:10.7332299+03:00","@mt":"\u001B[32mStarted Adapter Example..."}
+{"@t":"2025-02-22T01:39:10.8463227+03:00","@mt":"ПУК ПУК СРЕНЬК СТАРЫЙ СЕРВИС method {method:G}","@r":["\"MakePayment\""],"method":"MakePayment","SourceContext":"Patterns.Adapter.Services.LegacyPaymentService"}
+{"@t":"2025-02-22T01:39:10.8548510+03:00","@mt":"Processing payment for 2131,123 for USD","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:39:10.8561878+03:00","@mt":"Payment succeeded!","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:39:10.8570802+03:00","@mt":"\u001B[33mFinished Adapter Example..."}
+{"@t":"2025-02-22T01:39:10.8580644+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-22T01:40:25.3422438+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T01:40:25.4449092+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-22T01:40:25.7732194+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-22T01:40:25.7741389+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-22T01:40:25.8692099+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:40:25.8726745+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:40:25.8743301+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:40:25.8757574+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:40:25.8770031+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:40:25.8782144+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:40:25.8815778+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:40:25.8827918+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:40:25.8838793+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:40:25.8848256+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-22T01:40:25.8855840+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-22T01:40:25.8890434+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:40:25.8899123+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:40:25.8930454+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-22T01:40:25.8938006+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-22T01:40:25.8945447+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-22T01:40:25.9111563+03:00","@mt":"\u001B[33mFinished Builder Example..."}
+{"@t":"2025-02-22T01:40:25.9118894+03:00","@mt":"\u001B[32mStarted Adapter Example..."}
+{"@t":"2025-02-22T01:40:25.9267546+03:00","@mt":"ПУК ПУК СРЕНЬК СТАРЫЙ СЕРВИС method {method:G}","@r":["\"MakePayment\""],"method":"MakePayment","SourceContext":"Patterns.Adapter.Services.LegacyPaymentService"}
+{"@t":"2025-02-22T01:40:25.9313224+03:00","@mt":"Processing payment for 2131,123 for USD","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:40:25.9327832+03:00","@mt":"Payment succeeded!","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:40:25.9336275+03:00","@mt":"\u001B[33mFinished Adapter Example..."}
+{"@t":"2025-02-22T01:40:25.9344274+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-22T01:40:44.5762571+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T01:40:45.0054482+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-22T01:40:45.0066861+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-22T01:40:45.1883458+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:40:45.1939416+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:40:45.1953933+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:40:45.1969274+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:40:45.1983456+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:40:45.2001750+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:40:45.2043017+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:40:45.2053206+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:40:45.2062199+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:40:45.2071156+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-22T01:40:45.2081724+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-22T01:40:45.2130294+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:40:45.2141111+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:40:45.2189474+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-22T01:40:45.2199502+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-22T01:40:45.2211282+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-22T01:40:45.2430191+03:00","@mt":"\u001B[33mFinished Builder Example..."}
+{"@t":"2025-02-22T01:40:45.2439496+03:00","@mt":"\u001B[32mStarted Adapter Example..."}
+{"@t":"2025-02-22T01:40:45.2657862+03:00","@mt":"ПУК ПУК СРЕНЬК СТАРЫЙ СЕРВИС method {method:G}","@r":["\"MakePayment\""],"method":"MakePayment","SourceContext":"Patterns.Adapter.Services.LegacyPaymentService"}
+{"@t":"2025-02-22T01:40:45.2777322+03:00","@mt":"Processing payment for 2131,123 for USD","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:40:45.2794849+03:00","@mt":"Payment succeeded!","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:40:45.2805445+03:00","@mt":"\u001B[33mFinished Adapter Example..."}
+{"@t":"2025-02-22T01:40:45.2816859+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-22T01:42:19.3665579+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T01:42:19.7531444+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-22T01:42:19.7543975+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-22T01:42:19.8929648+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:42:19.8998425+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:42:19.9017079+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:42:19.9038644+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:42:19.9054423+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:42:19.9068823+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:42:19.9099898+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T01:42:19.9109746+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T01:42:19.9118429+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T01:42:19.9132333+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-22T01:42:19.9141851+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-22T01:42:19.9185815+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:42:19.9195740+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T01:42:19.9245690+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-22T01:42:19.9256351+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-22T01:42:19.9266688+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-22T01:42:19.9478417+03:00","@mt":"\u001B[33mFinished Builder Example..."}
+{"@t":"2025-02-22T01:42:19.9486648+03:00","@mt":"\u001B[32mStarted Adapter Example..."}
+{"@t":"2025-02-22T01:42:19.9668189+03:00","@mt":"ПУК ПУК СРЕНЬК СТАРЫЙ СЕРВИС method {method:G}","@r":["\"MakePayment\""],"method":"MakePayment","SourceContext":"Patterns.Adapter.Services.LegacyPaymentService"}
+{"@t":"2025-02-22T01:42:19.9738951+03:00","@mt":"Processing payment for 2131,123 for USD","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:42:19.9761549+03:00","@mt":"Payment succeeded!","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T01:42:19.9773047+03:00","@mt":"\u001B[33mFinished Adapter Example..."}
+{"@t":"2025-02-22T01:42:19.9782234+03:00","@mt":"\u001B[36mApplication closed"}

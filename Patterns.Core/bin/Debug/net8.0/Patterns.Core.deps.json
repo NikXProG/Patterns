@@ -1,0 +1,105 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Patterns.Core/1.0.0": {
+        "dependencies": {
+          "DryIoc.dll": "6.0.0-preview-09",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.2",
+          "Patterns.Domain.Models": "1.0.0",
+          "Serilog": "4.2.1-dev-02340"
+        },
+        "runtime": {
+          "Patterns.Core.dll": {}
+        }
+      },
+      "DryIoc.dll/6.0.0-preview-09": {
+        "runtime": {
+          "lib/net8.0/DryIoc.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/9.0.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "9.0.2"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/9.0.2": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "Serilog/4.2.1-dev-02340": {
+        "runtime": {
+          "lib/net8.0/Serilog.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "Patterns.Domain.Models/1.0.0": {
+        "runtime": {
+          "Patterns.Domain.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Patterns.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DryIoc.dll/6.0.0-preview-09": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GtpwCr+Z1beJ+HNbMDKVWFQaSH4fYyUy0C/R4AKNKuIRKX2VIbqPYsV0OQFI5TVIYUJlDwcKE5lWek1HgrvxGQ==",
+      "path": "dryioc.dll/6.0.0-preview-09",
+      "hashPath": "dryioc.dll.6.0.0-preview-09.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I0O/270E/lUNqbBxlRVjxKOMZyYjP88dpEgQTveml+h2lTzAP4vbawLVwjS9SC7lKaU893bwyyNz0IVJYsm9EA==",
+      "path": "microsoft.extensions.configuration.abstractions/9.0.2",
+      "hashPath": "microsoft.extensions.configuration.abstractions.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-puBMtKe/wLuYa7H6docBkLlfec+h8L35DXqsDKKJgW0WY5oCwJ3cBJKcDaZchv6knAyqOMfsl6VUbaR++E5LXA==",
+      "path": "microsoft.extensions.primitives/9.0.2",
+      "hashPath": "microsoft.extensions.primitives.9.0.2.nupkg.sha512"
+    },
+    "Serilog/4.2.1-dev-02340": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CCWT2Cnh963brjYZpfFieoXSicgecLMN7+XUL2OSOnxp0NgeWXTDDVcdXEwX3RLUH4UoOJpWsH3qpNdOrfqBTA==",
+      "path": "serilog/4.2.1-dev-02340",
+      "hashPath": "serilog.4.2.1-dev-02340.nupkg.sha512"
+    },
+    "Patterns.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

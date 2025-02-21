@@ -1,0 +1,542 @@
+{"@t":"2025-02-13T00:01:02.0065072+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:01:02.1053021+03:00","@mt":"Assembly {Assembly} not found for module {Module}. Skipping...","@l":"Warning","Assembly":"Patterns.AbstractFactory.dll","Module":"AbstractFactory"}
+{"@t":"2025-02-13T00:01:02.1129038+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:01:02.3769560+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:01:02.4755326+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:01:02.4813497+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:01:02.4830609+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:01:02.4846490+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:01:02.4858206+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:01:02.4870080+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:01:02.4910364+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:01:02.4919091+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:01:02.4925811+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:01:02.4932310+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:05:10.0303955+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:05:10.1800188+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.AbstractFactory.dll"}
+{"@t":"2025-02-13T00:05:10.1894381+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:05:10.5238671+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:05:10.7046784+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:05:10.7088127+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:05:10.7103067+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:05:10.7122406+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:05:10.7143883+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:05:10.7163634+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:05:10.7229652+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:05:10.7243964+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:05:10.7258558+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:05:10.7270730+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:13:09.2665010+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:13:09.4138807+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.AbstractFactory.dll"}
+{"@t":"2025-02-13T00:13:09.4249087+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:13:09.7800441+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:13:09.9948132+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:13:10.0213525+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:13:10.0230347+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:13:10.0254125+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:13:10.0274299+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:13:10.0292940+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:13:10.0370620+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:13:10.0449451+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:13:10.0518468+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:13:10.0535088+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:19:21.0372009+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:19:21.1497229+03:00","@mt":"Assembly {Assembly} not found for module {Module}. Skipping...","@l":"Warning","Assembly":"Patterns.AbstractFactory.dll","Module":"AbstractFactory"}
+{"@t":"2025-02-13T00:19:21.1568434+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:19:21.4478179+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:19:21.5806059+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:19:21.5851217+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:19:21.5863813+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:19:21.5876239+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:19:21.5886383+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:19:21.5898194+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:19:21.5924538+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:19:21.5933421+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:19:21.5943396+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:19:21.5950943+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:19:48.6599104+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:19:48.7631299+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:19:48.7687496+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:19:49.0547568+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:19:49.1923104+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:19:49.1956294+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:19:49.1967771+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:19:49.1988447+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:19:49.2003517+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:19:49.2015312+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:19:49.2043102+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:19:49.2050375+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:19:49.2056988+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:19:49.2065588+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:22:01.2416455+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:22:01.3830469+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:22:01.3923193+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:22:01.7638572+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:22:01.9462248+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:22:01.9508004+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:22:01.9523807+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:22:01.9544325+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:22:01.9558679+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:22:01.9570800+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:22:01.9615129+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:22:01.9623531+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:22:01.9632998+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:22:01.9643849+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:22:50.7771628+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:22:50.9013883+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:22:50.9077274+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:22:51.2573028+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:22:51.4771791+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:22:51.4863926+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:22:51.4884666+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:22:51.4906158+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:22:51.4921098+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:22:51.4936517+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:22:51.4986304+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:22:51.4999100+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:22:51.5010082+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:22:51.5032458+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:24:06.5685872+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:24:06.7305977+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:24:06.7389176+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:24:07.1132675+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:24:07.2439948+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:24:07.2482431+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:24:07.2493589+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:24:07.2504817+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:24:07.2515331+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:24:07.2523845+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:24:07.2547207+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:24:07.2554641+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:24:07.2561153+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:24:07.2618589+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:24:36.5551979+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:24:36.6790411+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:24:36.6874525+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:24:37.0859217+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:24:37.2586631+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:24:37.2628382+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:24:37.2641129+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:24:37.2655418+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:24:37.2667960+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:24:37.2678618+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:24:37.2707569+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:24:37.2715355+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:24:37.2726301+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:24:37.2772180+03:00","@mt":"Damage: 0;\nRadiusBow: 0;\nHealth: 0;\nName: ;\nPatterns.FactoryMethod.Products.Characters.Archer"}
+{"@t":"2025-02-13T00:24:37.2780666+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:27:26.7128501+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:27:26.8451272+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:27:26.8517686+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:27:27.1605776+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:27:27.2900387+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:27:27.2941497+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:27:27.2954368+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:27:27.2965582+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:27:27.2974869+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:27:27.2983748+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:27:27.3008740+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:27:27.3016595+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:27:27.3023683+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:27:27.3077373+03:00","@mt":"Damage: 0;\nRadiusBow: 0;\nHealth: 70;\nName: sdsdsds;\nPatterns.FactoryMethod.Products.Characters.Archer"}
+{"@t":"2025-02-13T00:27:27.3094209+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:29:07.8478203+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:29:07.9681380+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:29:07.9780192+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:29:08.3428087+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:29:08.5039625+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:29:08.5111146+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:29:08.5127923+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:29:08.5150735+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:29:08.5169343+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:29:08.5185518+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:29:08.5233663+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:29:08.5243981+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:29:08.5254378+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:29:08.5351474+03:00","@mt":"Damage: 0;RadiusBow: 0;Health: 70;Name: sdsdsds;Patterns.FactoryMethod.Products.Characters.Archer"}
+{"@t":"2025-02-13T00:29:08.5362607+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:29:27.2786301+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:29:27.4269134+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:29:27.4355011+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:29:27.7416763+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:29:27.8802698+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:29:27.8837887+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:29:27.8851324+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:29:27.8871876+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:29:27.8886122+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:29:27.8898619+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:29:27.8927883+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:29:27.8935633+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:29:27.8942727+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:29:27.8992785+03:00","@mt":"Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; Patterns.FactoryMethod.Products.Characters.Archer"}
+{"@t":"2025-02-13T00:29:27.9003234+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:30:24.7081136+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:30:24.8343586+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:30:24.8408848+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:30:25.1926573+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:30:25.3014451+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:30:25.3057753+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:30:25.3070864+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:30:25.3088155+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:30:25.3102883+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:30:25.3115602+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:30:25.3146855+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:30:25.3154583+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:30:25.3161842+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:30:25.3212429+03:00","@mt":"Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T00:30:25.3220205+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:31:00.8233401+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:31:00.9421259+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:31:00.9471545+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:31:01.2867616+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:31:01.4177557+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:31:01.4221421+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:31:01.4235847+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:31:01.4253465+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:31:01.4267152+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:31:01.4279887+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:31:01.4312044+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:31:01.4319717+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:31:01.4325980+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:31:01.4383165+03:00","@mt":"Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T00:31:01.4390821+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:36:03.4167535+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:36:03.5450130+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:36:03.5540128+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:36:03.9015500+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:36:04.0251602+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:36:04.0308187+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:36:04.0332220+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:36:04.0350865+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:36:04.0364412+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:36:04.0379363+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:36:04.0423046+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:36:04.0433172+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:36:04.0443195+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:36:04.0521185+03:00","@mt":"mageHill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:36:04.0534463+03:00","@mt":"mageCloneHill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:36:04.0588111+03:00","@mt":"archerDamage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T00:36:04.0603374+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:37:00.3314448+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:37:00.4370949+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:37:00.4423148+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:37:00.7190902+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:37:00.8391075+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:37:00.8427615+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:37:00.8441482+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:37:00.8454954+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:37:00.8466127+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:37:00.8475629+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:37:00.8517159+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:37:00.8525490+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:37:00.8532944+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:37:00.8576465+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:37:00.8583236+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:37:00.8622101+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T00:37:00.8631685+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:40:11.1271754+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:40:11.2609533+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:40:11.2672355+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:40:11.6532268+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:40:11.7611994+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:40:11.7662708+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:40:11.7678073+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:40:11.7693947+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:40:11.7708651+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:40:11.7721323+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:40:11.7760748+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:40:11.7773254+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:40:11.7791875+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:40:11.7846797+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:40:11.7857341+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:40:11.7905810+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T00:40:11.7917098+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:41:19.1387852+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:41:19.2821364+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:41:19.2920586+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:41:19.6653539+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:41:19.6661731+03:00","@mt":"Started Facade Example..."}
+{"@t":"2025-02-13T00:41:19.7955754+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:41:19.8111179+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:41:19.8132910+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:41:19.8150031+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:41:19.8161482+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:41:19.8171203+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:41:19.8199518+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:41:19.8208274+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:41:19.8216764+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:41:19.8227478+03:00","@mt":"Finished Facade Example..."}
+{"@t":"2025-02-13T00:41:19.8237928+03:00","@mt":"Started Factory Method Example..."}
+{"@t":"2025-02-13T00:41:19.8305288+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:41:19.8314789+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:41:19.8362222+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T00:41:19.8370449+03:00","@mt":"Finished Factory Method Example..."}
+{"@t":"2025-02-13T00:41:19.8378048+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:42:47.5815381+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:42:47.7545717+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:42:47.7665969+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:42:48.1005420+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:42:48.1014703+03:00","@mt":"\\x1b[31mStarted Facade Example..."}
+{"@t":"2025-02-13T00:42:48.2463902+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:42:48.2506811+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:42:48.2522034+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:42:48.2538356+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:42:48.2552965+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:42:48.2576224+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:42:48.2629458+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:42:48.2641190+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:42:48.2650401+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:42:48.2658606+03:00","@mt":"Finished Facade Example..."}
+{"@t":"2025-02-13T00:42:48.2668539+03:00","@mt":"Started Factory Method Example..."}
+{"@t":"2025-02-13T00:42:48.2721350+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:42:48.2731141+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:42:48.2774556+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T00:42:48.2785671+03:00","@mt":"Finished Factory Method Example..."}
+{"@t":"2025-02-13T00:42:48.2796683+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:42:57.9097717+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:42:58.0850639+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:42:58.0948120+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:42:58.4472389+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:42:58.4481260+03:00","@mt":"\u001B[31mStarted Facade Example..."}
+{"@t":"2025-02-13T00:42:58.5883296+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:42:58.5925483+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:42:58.5938377+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:42:58.5951053+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:42:58.5962100+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:42:58.5972131+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:42:58.6004448+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:42:58.6016138+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:42:58.6023852+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:42:58.6031750+03:00","@mt":"Finished Facade Example..."}
+{"@t":"2025-02-13T00:42:58.6039235+03:00","@mt":"Started Factory Method Example..."}
+{"@t":"2025-02-13T00:42:58.6082354+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:42:58.6092298+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:42:58.6133433+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T00:42:58.6142559+03:00","@mt":"Finished Factory Method Example..."}
+{"@t":"2025-02-13T00:42:58.6150895+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:43:55.4076520+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:43:55.5146791+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:43:55.5208043+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:43:55.8514558+03:00","@mt":"Application running..."}
+{"@t":"2025-02-13T00:43:55.8522330+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-13T00:43:55.9626072+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:43:55.9673585+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:43:55.9686924+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:43:55.9703099+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:43:55.9713784+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:43:55.9723189+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:43:55.9748055+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:43:55.9755396+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:43:55.9761820+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:43:55.9768284+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-13T00:43:55.9776371+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-13T00:43:55.9820179+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:43:55.9828199+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:43:55.9864393+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T00:43:55.9872180+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-13T00:43:55.9879271+03:00","@mt":"Application closed"}
+{"@t":"2025-02-13T00:44:40.0026905+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:44:40.1628289+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:44:40.1714842+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:44:40.5849408+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-13T00:44:40.5863187+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-13T00:44:40.7338436+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:44:40.7388594+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:44:40.7404434+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:44:40.7422735+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:44:40.7437752+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:44:40.7453620+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:44:40.7489613+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:44:40.7498213+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:44:40.7506012+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:44:40.7513430+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-13T00:44:40.7521474+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-13T00:44:40.7575771+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:44:40.7586367+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:44:40.7635032+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T00:44:40.7643928+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-13T00:44:40.7651815+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-13T00:57:48.4030781+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T00:57:48.5313596+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T00:57:48.5420521+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T00:57:48.9314123+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-13T00:57:48.9338100+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-13T00:57:49.0986188+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:57:49.1067190+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:57:49.1084787+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:57:49.1099107+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:57:49.1110308+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:57:49.1120615+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:57:49.1150925+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T00:57:49.1161045+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T00:57:49.1171429+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T00:57:49.1180854+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-13T00:57:49.1364620+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-13T00:57:49.1413329+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:57:49.1423916+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T00:57:49.1476973+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T00:57:49.1491816+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-13T00:57:49.1503815+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-13T00:57:49.1514293+03:00","@mt":"\u001B[33mFinished Builder Example..."}
+{"@t":"2025-02-13T00:57:49.1525719+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-13T02:05:10.3906344+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T02:05:10.5505460+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T02:05:10.5583713+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T02:05:10.8990116+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-13T02:05:10.9010072+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-13T02:05:11.1109080+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:05:11.1155710+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:05:11.1173104+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:05:11.1195976+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:05:11.1213201+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:05:11.1230321+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:05:11.1285664+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:05:11.1299392+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:05:11.1318437+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:05:11.1330951+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-13T02:05:11.1344254+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-13T02:05:11.1420610+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T02:05:11.1432794+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T02:05:11.1501604+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T02:05:11.1514602+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-13T02:05:11.1526081+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-13T02:05:11.1553638+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"System.NotImplementedException: for class ILogger method Log is not implemented.\r\n   at Patterns.Builder.CustomLogger.Logger`1.Log(String message, LogLevel level) in C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Builder\\CustomLogger\\Logger.cs:line 12\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 86"}
+{"@t":"2025-02-13T02:05:11.1688414+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-13T02:09:14.7865835+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T02:09:14.8856106+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T02:09:14.8947312+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T02:09:15.2358530+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-13T02:09:15.2366991+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-13T02:09:15.3607811+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:09:15.3643159+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:09:15.3655122+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:09:15.3673820+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:09:15.3685680+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:09:15.3696248+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:09:15.3727783+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:09:15.3737493+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:09:15.3747935+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:09:15.3757250+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-13T02:09:15.3765774+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-13T02:09:15.3826042+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T02:09:15.3835958+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T02:09:15.3884256+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T02:09:15.3895579+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-13T02:09:15.3906370+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-13T02:09:15.3925563+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"System.NotImplementedException: for class ILogger method \u001B[35mLog with parameters\u001B[33mmessage, LogLevel is not implemented.\r\n   at Patterns.Builder.CustomLogger.Logger`1.Log(String message, LogLevel level) in C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Builder\\CustomLogger\\Logger.cs:line 12\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 86"}
+{"@t":"2025-02-13T02:09:15.4028517+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-13T02:09:52.1820348+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T02:09:52.2876864+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T02:09:52.2939162+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T02:09:52.6023160+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-13T02:09:52.6032917+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-13T02:09:52.7029031+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:09:52.7067589+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:09:52.7082396+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:09:52.7096815+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:09:52.7109277+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:09:52.7124444+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:09:52.7162963+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:09:52.7170670+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:09:52.7179737+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:09:52.7189113+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-13T02:09:52.7199235+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-13T02:09:52.7253100+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T02:09:52.7262708+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T02:09:52.7302239+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T02:09:52.7309926+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-13T02:09:52.7317786+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-13T02:09:52.7333340+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"System.NotImplementedException: for class ILogger method \u001B[35mLog\u001B[37m with parameters\u001B[33mmessage, LogLevel\u001B[37m is not implemented.\r\n   at Patterns.Builder.CustomLogger.Logger`1.Log(String message, LogLevel level) in C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Builder\\CustomLogger\\Logger.cs:line 12\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 86"}
+{"@t":"2025-02-13T02:09:52.7431453+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-13T02:10:34.2409564+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T02:10:34.3511954+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T02:10:34.3595532+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T02:10:34.7184423+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-13T02:10:34.7199401+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-13T02:10:34.8357059+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:10:34.8410566+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:10:34.8422834+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:10:34.8438800+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:10:34.8449847+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:10:34.8466288+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:10:34.8507427+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:10:34.8518940+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:10:34.8527310+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:10:34.8535367+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-13T02:10:34.8542359+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-13T02:10:34.8598564+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T02:10:34.8608735+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T02:10:34.8640362+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T02:10:34.8647574+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-13T02:10:34.8654956+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-13T02:10:34.8675954+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"System.NotImplementedException: for class ILogger method \u001B[35mLog\u001B[0m with parameters\u001B[33m message, LogLevel\u001B[0m is not implemented.\r\n   at Patterns.Builder.CustomLogger.Logger`1.Log(String message, LogLevel level) in C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Builder\\CustomLogger\\Logger.cs:line 12\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 86"}
+{"@t":"2025-02-13T02:10:34.8932909+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-13T02:11:22.5169747+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T02:11:22.6460042+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T02:11:22.6527654+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T02:11:22.9532637+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-13T02:11:22.9543302+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-13T02:11:23.1120829+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:11:23.1168069+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:11:23.1186323+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:11:23.1203742+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:11:23.1220483+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:11:23.1234923+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:11:23.1298971+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:11:23.1312468+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:11:23.1321456+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:11:23.1331061+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-13T02:11:23.1339744+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-13T02:11:23.1399709+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T02:11:23.1410768+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T02:11:23.1620452+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T02:11:23.1631646+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-13T02:11:23.1642711+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-13T02:11:23.1661756+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"System.NotImplementedException: for class ILogger method Log[0m with parameters[33m message, LogLevel[0m is not implemented.\r\n   at Patterns.Builder.CustomLogger.Logger`1.Log(String message, LogLevel level) in C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Builder\\CustomLogger\\Logger.cs:line 12\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 86"}
+{"@t":"2025-02-13T02:11:23.1819959+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-13T02:11:38.0048742+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T02:11:38.1300288+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T02:11:38.1370157+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T02:11:38.4623908+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-13T02:11:38.4632610+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-13T02:11:38.5657822+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:11:38.5694099+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:11:38.5707022+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:11:38.5719163+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:11:38.5730806+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:11:38.5740935+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:11:38.5772007+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T02:11:38.5780034+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T02:11:38.5788161+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T02:11:38.5795170+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-13T02:11:38.5802114+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-13T02:11:38.5843664+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T02:11:38.5852005+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T02:11:38.5892646+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T02:11:38.5900193+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-13T02:11:38.5909439+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-13T02:11:38.5922388+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"System.NotImplementedException: for class ILogger method Log with parameters message, LogLevel is not implemented.\r\n   at Patterns.Builder.CustomLogger.Logger`1.Log(String message, LogLevel level) in C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Builder\\CustomLogger\\Logger.cs:line 12\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 86"}
+{"@t":"2025-02-13T02:11:38.6010049+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-13T19:55:45.3232432+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-13T19:55:45.5028505+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"AbstractFactory","Assembly":"Patterns.FactoryMethod.dll"}
+{"@t":"2025-02-13T19:55:45.5117392+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-13T19:55:46.0186931+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-13T19:55:46.0200564+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-13T19:55:46.3007256+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T19:55:46.3107206+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T19:55:46.3159741+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T19:55:46.3192863+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T19:55:46.3239907+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T19:55:46.3348033+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T19:55:46.3482579+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-13T19:55:46.3550995+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-13T19:55:46.3715008+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-13T19:55:46.3728790+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-13T19:55:46.3745464+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-13T19:55:46.3902188+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T19:55:46.3911515+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-13T19:55:46.3984418+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-13T19:55:46.3995203+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-13T19:55:46.4006387+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-13T19:55:46.4154637+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at Client.Program.<>c.<Main>b__0_0(LogMaskBuilder b) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 83\r\n   at Patterns.Builder.CustomLogger.LoggerBuilder.ConfigureMask(Action`1 action) in C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Builder\\CustomLogger\\LoggerBuilder.cs:line 34\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 81"}
+{"@t":"2025-02-13T19:55:46.4368021+03:00","@mt":"\u001B[36mApplication closed"}

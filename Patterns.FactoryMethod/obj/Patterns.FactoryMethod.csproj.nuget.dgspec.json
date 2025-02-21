@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.FactoryMethod\\Patterns.FactoryMethod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Core\\Patterns.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Core\\Patterns.Core.csproj",
+        "projectName": "Patterns.Core",
+        "projectPath": "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Core\\Patterns.Core.csproj",
+        "packagesPath": "C:\\Users\\tiger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tiger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Domain.Models\\Patterns.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Domain.Models\\Patterns.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DryIoc.dll": {
+              "target": "Package",
+              "version": "[6.0.0-preview-09, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.2.1-dev-02340, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Domain.Models\\Patterns.Domain.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Domain.Models\\Patterns.Domain.Models.csproj",
+        "projectName": "Patterns.Domain.Models",
+        "projectPath": "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Domain.Models\\Patterns.Domain.Models.csproj",
+        "packagesPath": "C:\\Users\\tiger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Domain.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tiger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.FactoryMethod\\Patterns.FactoryMethod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.FactoryMethod\\Patterns.FactoryMethod.csproj",
+        "projectName": "Patterns.FactoryMethod",
+        "projectPath": "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.FactoryMethod\\Patterns.FactoryMethod.csproj",
+        "packagesPath": "C:\\Users\\tiger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.FactoryMethod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tiger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Core\\Patterns.Core.csproj": {
+                "projectPath": "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Core\\Patterns.Core.csproj"
+              },
+              "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Domain.Models\\Patterns.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\tiger\\RiderProjects\\patterns\\Patterns.Domain.Models\\Patterns.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

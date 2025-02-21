@@ -1,0 +1,11 @@
+C:\Users\tiger\RiderProjects\patterns\Domain.Models\bin\Debug\net8.0\Domain.Models.deps.json
+C:\Users\tiger\RiderProjects\patterns\Domain.Models\bin\Debug\net8.0\Domain.Models.dll
+C:\Users\tiger\RiderProjects\patterns\Domain.Models\bin\Debug\net8.0\Domain.Models.pdb
+C:\Users\tiger\RiderProjects\patterns\Domain.Models\obj\Debug\net8.0\Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiger\RiderProjects\patterns\Domain.Models\obj\Debug\net8.0\Domain.Models.AssemblyInfoInputs.cache
+C:\Users\tiger\RiderProjects\patterns\Domain.Models\obj\Debug\net8.0\Domain.Models.AssemblyInfo.cs
+C:\Users\tiger\RiderProjects\patterns\Domain.Models\obj\Debug\net8.0\Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\tiger\RiderProjects\patterns\Domain.Models\obj\Debug\net8.0\Domain.Models.dll
+C:\Users\tiger\RiderProjects\patterns\Domain.Models\obj\Debug\net8.0\refint\Domain.Models.dll
+C:\Users\tiger\RiderProjects\patterns\Domain.Models\obj\Debug\net8.0\Domain.Models.pdb
+C:\Users\tiger\RiderProjects\patterns\Domain.Models\obj\Debug\net8.0\ref\Domain.Models.dll

@@ -1,0 +1,17 @@
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\bin\Debug\net8.0\Patterns.Facade.deps.json
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\bin\Debug\net8.0\Patterns.Facade.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\bin\Debug\net8.0\Patterns.Facade.pdb
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\bin\Debug\net8.0\Patterns.Core.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\bin\Debug\net8.0\Patterns.Domain.Models.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\bin\Debug\net8.0\Patterns.Core.pdb
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\bin\Debug\net8.0\Patterns.Domain.Models.pdb
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\Patterns.Facade.csproj.AssemblyReference.cache
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\Patterns.Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\Patterns.Facade.AssemblyInfoInputs.cache
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\Patterns.Facade.AssemblyInfo.cs
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\Patterns.Facade.csproj.CoreCompileInputs.cache
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\Patterns.4DFBA636.Up2Date
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\Patterns.Facade.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\refint\Patterns.Facade.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\Patterns.Facade.pdb
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\ref\Patterns.Facade.dll

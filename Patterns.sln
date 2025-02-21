@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{557048C8-E30D-4B22-97A7-272EA0BA67BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Core", "Patterns.Core\Patterns.Core.csproj", "{1AB7DAC0-ABE2-4AAB-B228-9CE3618B95AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Domain.Models", "Patterns.Domain.Models\Patterns.Domain.Models.csproj", "{135FD5DC-628D-4819-8BBF-17327FDAF190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Facade", "Patterns.Facade\Patterns.Facade.csproj", "{9D47294B-E61B-44CB-82A3-E8EE8694A31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.FactoryMethod", "Patterns.FactoryMethod\Patterns.FactoryMethod.csproj", "{61394A61-70AC-4F12-8F7C-AD82F6C6FBC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Builder", "Patterns.Builder\Patterns.Builder.csproj", "{7703CCCD-C624-42D9-B7BD-16BBE433172F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patterns", "Patterns", "{01082AC5-26BB-41A9-BF7E-B23385240A83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Adapter", "Patterns.Adapter\Patterns.Adapter.csproj", "{8E7808A5-8FE7-4AF9-84E5-5DEE7CAB9741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557048C8-E30D-4B22-97A7-272EA0BA67BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557048C8-E30D-4B22-97A7-272EA0BA67BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557048C8-E30D-4B22-97A7-272EA0BA67BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557048C8-E30D-4B22-97A7-272EA0BA67BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB7DAC0-ABE2-4AAB-B228-9CE3618B95AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB7DAC0-ABE2-4AAB-B228-9CE3618B95AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB7DAC0-ABE2-4AAB-B228-9CE3618B95AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB7DAC0-ABE2-4AAB-B228-9CE3618B95AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135FD5DC-628D-4819-8BBF-17327FDAF190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135FD5DC-628D-4819-8BBF-17327FDAF190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135FD5DC-628D-4819-8BBF-17327FDAF190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135FD5DC-628D-4819-8BBF-17327FDAF190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D47294B-E61B-44CB-82A3-E8EE8694A31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D47294B-E61B-44CB-82A3-E8EE8694A31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D47294B-E61B-44CB-82A3-E8EE8694A31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D47294B-E61B-44CB-82A3-E8EE8694A31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61394A61-70AC-4F12-8F7C-AD82F6C6FBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61394A61-70AC-4F12-8F7C-AD82F6C6FBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61394A61-70AC-4F12-8F7C-AD82F6C6FBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61394A61-70AC-4F12-8F7C-AD82F6C6FBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7703CCCD-C624-42D9-B7BD-16BBE433172F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7703CCCD-C624-42D9-B7BD-16BBE433172F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7703CCCD-C624-42D9-B7BD-16BBE433172F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7703CCCD-C624-42D9-B7BD-16BBE433172F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7808A5-8FE7-4AF9-84E5-5DEE7CAB9741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7808A5-8FE7-4AF9-84E5-5DEE7CAB9741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7808A5-8FE7-4AF9-84E5-5DEE7CAB9741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7808A5-8FE7-4AF9-84E5-5DEE7CAB9741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9D47294B-E61B-44CB-82A3-E8EE8694A31F} = {01082AC5-26BB-41A9-BF7E-B23385240A83}
+		{61394A61-70AC-4F12-8F7C-AD82F6C6FBC7} = {01082AC5-26BB-41A9-BF7E-B23385240A83}
+		{7703CCCD-C624-42D9-B7BD-16BBE433172F} = {01082AC5-26BB-41A9-BF7E-B23385240A83}
+		{8E7808A5-8FE7-4AF9-84E5-5DEE7CAB9741} = {01082AC5-26BB-41A9-BF7E-B23385240A83}
+	EndGlobalSection
+EndGlobal

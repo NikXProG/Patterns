@@ -1,0 +1,64 @@
+{"@t":"2025-02-11T21:34:04.5986120+03:00","@mt":"Application start up failed: {exception:G}","@r":["\"SDSDSD\""],"@l":"Fatal","exception":"SDSDSD"}
+{"@t":"2025-02-11T21:34:31.2210021+03:00","@mt":"Application start up failed: {exception:G}","@r":["\"idi nahui\""],"@l":"Fatal","exception":"idi nahui"}
+{"@t":"2025-02-11T21:36:03.4622075+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"System.Exception: idi nahui\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 28"}
+{"@t":"2025-02-11T21:36:27.9461291+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"System.Exception: idi nahui\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 28"}
+{"@t":"2025-02-11T21:36:40.8010411+03:00","@mt":"Application start up failed","@l":"Fatal"}
+{"@t":"2025-02-11T21:36:52.4338109+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"System.Exception: idi nahui\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 28"}
+{"@t":"2025-02-11T22:19:34.3929223+03:00","@mt":"Application started"}
+{"@t":"2025-02-11T22:19:34.4855733+03:00","@mt":"Application the end"}
+{"@t":"2025-02-11T22:19:59.0452253+03:00","@mt":"Application started"}
+{"@t":"2025-02-11T22:19:59.1293795+03:00","@mt":"Application closed"}
+{"@t":"2025-02-11T22:35:32.7046378+03:00","@mt":"Application started"}
+{"@t":"2025-02-11T22:35:32.8615700+03:00","@mt":"Application closed"}
+{"@t":"2025-02-11T23:10:55.7724662+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-11T23:10:55.8948468+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-11T23:10:56.1696914+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"DryIoc.ContainerException: code: Error.NoServicesWereRegisteredByRegisterMany;\r\nmessage: No service types were discovered in `RegisterMany` (or in `RegisterInstanceMany`) for the specified implementation types: \r\n[System.Linq.Enumerable+SelectManySingleSelectorIterator`2[System.Reflection.Assembly,System.Type]]\r\nMaybe you missed the implementation or service type(s), e.g. provided only abstract or compiler-generated implementation types, or specified a wrong `serviceTypeCondition`,or did not specify to use `nonPublicServiceTypes`, etc.\r\n   at DryIoc.Throw.It(Int32 error, Object arg0, Object arg1, Object arg2, Object arg3) in /_/src/DryIoc/Container.cs:line 15958\r\n   at DryIoc.Registrator.RegisterMany(IRegistrator registrator, IEnumerable`1 implTypes, Func`2 getServiceTypes, Func`2 getImplFactory, Func`3 getServiceKey, Nullable`1 ifAlreadyRegistered) in /_/src/DryIoc/Container.cs:line 8780\r\n   at DryIoc.Registrator.RegisterMany(IRegistrator registrator, IEnumerable`1 implTypeAssemblies, Func`2 getServiceTypes, Func`2 getImplFactory, Func`3 getServiceKey, Nullable`1 ifAlreadyRegistered) in /_/src/DryIoc/Container.cs:line 8842\r\n   at Client.Deploy.ServicesRegistration..ctor(IRegistrator registrator) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Deploy\\ServicesRegistration.cs:line 41\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)\r\n   at DryIoc.Interpreter.TryInterpretAndUnwrapContainerException(IResolverContext r, Expression expr, Object& result) in /_/src/DryIoc/Container.cs:line 3278\r\n   at DryIoc.Container.ResolveAndCache(Int32 serviceTypeHash, Type serviceType, IfUnresolved ifUnresolved) in /_/src/DryIoc/Container.cs:line 419\r\n   at DryIoc.Container.Resolve(Type serviceType, IfUnresolved ifUnresolved) in /_/src/DryIoc/Container.cs:line 369\r\n   at DryIoc.Microsoft.DependencyInjection.DryIocAdapter.WithCompositionRoot(IContainer container, Type compositionRootType) in /_/src/DryIoc.Microsoft.DependencyInjection/DryIocAdapter.cs:line 274\r\n   at DryIoc.Microsoft.DependencyInjection.DryIocAdapter.WithCompositionRoot[TCompositionRoot](IContainer container) in /_/src/DryIoc.Microsoft.DependencyInjection/DryIocAdapter.cs:line 280\r\n   at Client.Deploy.Startup.ConfigureApplication() in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Deploy\\Startup.cs:line 43\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 31"}
+{"@t":"2025-02-11T23:10:56.1761731+03:00","@mt":"Application closed"}
+{"@t":"2025-02-11T23:12:20.1129590+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-11T23:12:20.2160457+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-11T23:12:20.3209467+03:00","@mt":"Application running..."}
+{"@t":"2025-02-11T23:12:20.3217305+03:00","@mt":"Application closed"}
+{"@t":"2025-02-11T23:23:16.9170100+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-11T23:23:17.0161859+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-11T23:23:17.1159649+03:00","@mt":"Application running..."}
+{"@t":"2025-02-11T23:23:17.1167774+03:00","@mt":"Application closed"}
+{"@t":"2025-02-11T23:24:02.5283917+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-11T23:24:02.6282245+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-11T23:24:02.6348130+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade2","Assembly":"Patterns.Domain.Models.dll"}
+{"@t":"2025-02-11T23:24:02.7506316+03:00","@mt":"Application running..."}
+{"@t":"2025-02-11T23:24:02.7514548+03:00","@mt":"Application closed"}
+{"@t":"2025-02-11T23:32:24.7783416+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-11T23:32:24.8988205+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-11T23:32:24.9062954+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade2","Assembly":"Patterns.Domain.Models.dll"}
+{"@t":"2025-02-11T23:32:25.0247758+03:00","@mt":"Application running..."}
+{"@t":"2025-02-11T23:32:25.0256273+03:00","@mt":"Application closed"}
+{"@t":"2025-02-11T23:32:43.9652975+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-11T23:32:44.0709481+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-11T23:32:44.0773951+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade2","Assembly":"Patterns.Domain.Models.dll"}
+{"@t":"2025-02-11T23:32:44.2217923+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 36"}
+{"@t":"2025-02-11T23:32:44.2302516+03:00","@mt":"Application closed"}
+{"@t":"2025-02-11T23:34:20.3594924+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-11T23:34:20.4883682+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-11T23:34:20.4954571+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade2","Assembly":"Patterns.Domain.Models.dll"}
+{"@t":"2025-02-11T23:34:20.7189101+03:00","@mt":"Application running..."}
+{"@t":"2025-02-11T23:34:20.7197187+03:00","@mt":"Application closed"}
+{"@t":"2025-02-11T23:34:33.9134338+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-11T23:34:34.0008718+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-11T23:34:34.0096702+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade2","Assembly":"Patterns.Domain.Models.dll"}
+{"@t":"2025-02-11T23:34:34.2343095+03:00","@mt":"Application running..."}
+{"@t":"2025-02-11T23:34:34.2352665+03:00","@mt":"Application closed"}
+{"@t":"2025-02-11T23:37:57.8811592+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-11T23:37:58.0261831+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-11T23:37:58.0323903+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade2","Assembly":"Patterns.Domain.Models.dll"}
+{"@t":"2025-02-11T23:37:58.3850402+03:00","@mt":"Application running..."}
+{"@t":"2025-02-11T23:37:58.3860378+03:00","@mt":"Application closed"}
+{"@t":"2025-02-11T23:38:35.0259011+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-11T23:38:35.1482147+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-11T23:38:35.1555866+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade2","Assembly":"Patterns.Domain.Models.dll"}
+{"@t":"2025-02-11T23:38:35.3931722+03:00","@mt":"Application running..."}
+{"@t":"2025-02-11T23:38:35.3943073+03:00","@mt":"Application closed"}
+{"@t":"2025-02-11T23:39:08.0631989+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-11T23:39:08.1601545+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade","Assembly":"Patterns.Facade.dll"}
+{"@t":"2025-02-11T23:39:08.1663440+03:00","@mt":"Loading module {Module} from {Assembly}","Module":"Facade2","Assembly":"Patterns.Domain.Models.dll"}
+{"@t":"2025-02-11T23:39:08.3960746+03:00","@mt":"Application start up failed","@l":"Fatal","@x":"System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at Client.Program.Main(String[] args) in C:\\Users\\tiger\\RiderProjects\\patterns\\Client\\Program.cs:line 39"}
+{"@t":"2025-02-11T23:39:08.4025528+03:00","@mt":"Application closed"}

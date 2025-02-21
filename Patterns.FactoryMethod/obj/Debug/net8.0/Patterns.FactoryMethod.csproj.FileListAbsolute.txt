@@ -1,0 +1,17 @@
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\bin\Debug\net8.0\Patterns.FactoryMethod.deps.json
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\bin\Debug\net8.0\Patterns.FactoryMethod.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\bin\Debug\net8.0\Patterns.FactoryMethod.pdb
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\bin\Debug\net8.0\Patterns.Core.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\bin\Debug\net8.0\Patterns.Domain.Models.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\bin\Debug\net8.0\Patterns.Core.pdb
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\bin\Debug\net8.0\Patterns.Domain.Models.pdb
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\Patterns.FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\Patterns.FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\Patterns.FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\Patterns.FactoryMethod.AssemblyInfo.cs
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\Patterns.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\Patterns.C2C79FCD.Up2Date
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\Patterns.FactoryMethod.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\refint\Patterns.FactoryMethod.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\Patterns.FactoryMethod.pdb
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\ref\Patterns.FactoryMethod.dll

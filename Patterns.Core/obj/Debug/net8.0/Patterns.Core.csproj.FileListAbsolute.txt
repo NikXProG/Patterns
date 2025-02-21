@@ -1,0 +1,15 @@
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\bin\Debug\net8.0\Patterns.Core.deps.json
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\bin\Debug\net8.0\Patterns.Core.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\bin\Debug\net8.0\Patterns.Core.pdb
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\obj\Debug\net8.0\Patterns.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\obj\Debug\net8.0\Patterns.Core.AssemblyInfoInputs.cache
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\obj\Debug\net8.0\Patterns.Core.AssemblyInfo.cs
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\obj\Debug\net8.0\Patterns.Core.csproj.CoreCompileInputs.cache
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\obj\Debug\net8.0\Patterns.Core.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\obj\Debug\net8.0\refint\Patterns.Core.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\obj\Debug\net8.0\Patterns.Core.pdb
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\obj\Debug\net8.0\ref\Patterns.Core.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\obj\Debug\net8.0\Patterns.Core.csproj.AssemblyReference.cache
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\bin\Debug\net8.0\Patterns.Domain.Models.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\bin\Debug\net8.0\Patterns.Domain.Models.pdb
+C:\Users\tiger\RiderProjects\patterns\Patterns.Core\obj\Debug\net8.0\Patterns.680ED52A.Up2Date
