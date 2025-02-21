@@ -15,3 +15,4 @@ C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\Patterns.
 C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\refint\Patterns.Facade.dll
 C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\Patterns.Facade.pdb
 C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\ref\Patterns.Facade.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Facade\obj\Debug\net8.0\Patterns.Facade.sourcelink.json

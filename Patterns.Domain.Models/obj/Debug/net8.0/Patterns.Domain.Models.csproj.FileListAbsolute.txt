@@ -9,3 +9,4 @@ C:\Users\tiger\RiderProjects\patterns\Patterns.Domain.Models\obj\Debug\net8.0\Pa
 C:\Users\tiger\RiderProjects\patterns\Patterns.Domain.Models\obj\Debug\net8.0\refint\Patterns.Domain.Models.dll
 C:\Users\tiger\RiderProjects\patterns\Patterns.Domain.Models\obj\Debug\net8.0\Patterns.Domain.Models.pdb
 C:\Users\tiger\RiderProjects\patterns\Patterns.Domain.Models\obj\Debug\net8.0\ref\Patterns.Domain.Models.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Domain.Models\obj\Debug\net8.0\Patterns.Domain.Models.sourcelink.json

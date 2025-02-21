@@ -15,3 +15,4 @@ C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\Pa
 C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\refint\Patterns.FactoryMethod.dll
 C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\Patterns.FactoryMethod.pdb
 C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\ref\Patterns.FactoryMethod.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.FactoryMethod\obj\Debug\net8.0\Patterns.FactoryMethod.sourcelink.json

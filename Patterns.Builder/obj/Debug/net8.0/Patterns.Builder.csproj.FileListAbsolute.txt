@@ -15,3 +15,4 @@ C:\Users\tiger\RiderProjects\patterns\Patterns.Builder\obj\Debug\net8.0\Patterns
 C:\Users\tiger\RiderProjects\patterns\Patterns.Builder\obj\Debug\net8.0\refint\Patterns.Builder.dll
 C:\Users\tiger\RiderProjects\patterns\Patterns.Builder\obj\Debug\net8.0\Patterns.Builder.pdb
 C:\Users\tiger\RiderProjects\patterns\Patterns.Builder\obj\Debug\net8.0\ref\Patterns.Builder.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Builder\obj\Debug\net8.0\Patterns.Builder.sourcelink.json

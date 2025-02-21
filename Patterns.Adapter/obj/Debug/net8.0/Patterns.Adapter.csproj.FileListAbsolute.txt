@@ -15,3 +15,4 @@ C:\Users\tiger\RiderProjects\patterns\Patterns.Adapter\obj\Debug\net8.0\Patterns
 C:\Users\tiger\RiderProjects\patterns\Patterns.Adapter\obj\Debug\net8.0\refint\Patterns.Adapter.dll
 C:\Users\tiger\RiderProjects\patterns\Patterns.Adapter\obj\Debug\net8.0\Patterns.Adapter.pdb
 C:\Users\tiger\RiderProjects\patterns\Patterns.Adapter\obj\Debug\net8.0\ref\Patterns.Adapter.dll
+C:\Users\tiger\RiderProjects\patterns\Patterns.Adapter\obj\Debug\net8.0\Patterns.Adapter.sourcelink.json

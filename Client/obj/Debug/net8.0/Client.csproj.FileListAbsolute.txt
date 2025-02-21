@@ -71,3 +71,4 @@ C:\Users\tiger\RiderProjects\patterns\Client\bin\Debug\net8.0\Patterns.Builder.d
 C:\Users\tiger\RiderProjects\patterns\Client\bin\Debug\net8.0\Patterns.Builder.pdb
 C:\Users\tiger\RiderProjects\patterns\Client\bin\Debug\net8.0\Patterns.Adapter.dll
 C:\Users\tiger\RiderProjects\patterns\Client\bin\Debug\net8.0\Patterns.Adapter.pdb
+C:\Users\tiger\RiderProjects\patterns\Client\obj\Debug\net8.0\Client.sourcelink.json

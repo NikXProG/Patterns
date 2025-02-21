@@ -825,3 +825,29 @@
 {"@t":"2025-02-22T01:42:19.9761549+03:00","@mt":"Payment succeeded!","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
 {"@t":"2025-02-22T01:42:19.9773047+03:00","@mt":"\u001B[33mFinished Adapter Example..."}
 {"@t":"2025-02-22T01:42:19.9782234+03:00","@mt":"\u001B[36mApplication closed"}
+{"@t":"2025-02-22T02:18:05.7600983+03:00","@mt":"Client application starting..."}
+{"@t":"2025-02-22T02:18:06.3503882+03:00","@mt":"\u001B[36mApplication running..."}
+{"@t":"2025-02-22T02:18:06.3519439+03:00","@mt":"\u001B[32mStarted Facade Example..."}
+{"@t":"2025-02-22T02:18:06.5378205+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T02:18:06.5443962+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T02:18:06.5458425+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T02:18:06.5476103+03:00","@mt":"Light is off","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T02:18:06.5489600+03:00","@mt":"Stop","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T02:18:06.5504154+03:00","@mt":"Night Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T02:18:06.5545341+03:00","@mt":"Light is on","SourceContext":"Patterns.Facade.Services.LightingService"}
+{"@t":"2025-02-22T02:18:06.5556285+03:00","@mt":"Play","SourceContext":"Patterns.Facade.Services.MusicService"}
+{"@t":"2025-02-22T02:18:06.5565439+03:00","@mt":"Evening Mode activated.","SourceContext":"Patterns.Facade.Facades.SmartHome"}
+{"@t":"2025-02-22T02:18:06.5573620+03:00","@mt":"\u001B[33mFinished Facade Example..."}
+{"@t":"2025-02-22T02:18:06.5581586+03:00","@mt":"\u001B[32mStarted Factory Method Example..."}
+{"@t":"2025-02-22T02:18:06.5629927+03:00","@mt":"mage : Hill: 0; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T02:18:06.5640835+03:00","@mt":"mageClone : Hill: 40; Health: 100; Name: Voin; "}
+{"@t":"2025-02-22T02:18:06.5687392+03:00","@mt":"archer : Damage: 0; RadiusBow: 0; Health: 70; Name: sdsdsds; "}
+{"@t":"2025-02-22T02:18:06.5701707+03:00","@mt":"\u001B[33mFinished Factory Method Example..."}
+{"@t":"2025-02-22T02:18:06.5713398+03:00","@mt":"\u001B[32mStarted Builder Example..."}
+{"@t":"2025-02-22T02:18:06.6056041+03:00","@mt":"\u001B[33mFinished Builder Example..."}
+{"@t":"2025-02-22T02:18:06.6069570+03:00","@mt":"\u001B[32mStarted Adapter Example..."}
+{"@t":"2025-02-22T02:18:06.6332968+03:00","@mt":"ПУК ПУК СРЕНЬК СТАРЫЙ СЕРВИС method {method:G}","@r":["\"MakePayment\""],"method":"MakePayment","SourceContext":"Patterns.Adapter.Services.LegacyPaymentService"}
+{"@t":"2025-02-22T02:18:06.6430611+03:00","@mt":"Processing payment for 2131,123 for USD","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T02:18:06.6452870+03:00","@mt":"Payment succeeded!","SourceContext":"Patterns.Adapter.Services.NewPaymentService"}
+{"@t":"2025-02-22T02:18:06.6464974+03:00","@mt":"\u001B[33mFinished Adapter Example..."}
+{"@t":"2025-02-22T02:18:06.6480764+03:00","@mt":"\u001B[36mApplication closed"}
